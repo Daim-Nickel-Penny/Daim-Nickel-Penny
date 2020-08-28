@@ -6,11 +6,12 @@ I am an Android and MERN stack developer.
 - 🤝 Open for collaborations in Web App or Mobile App development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in developing field.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/) 
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in) or <a href="mailto:daimk558@gmail.com">Email</a>
 - 🌐 Visit my [porfolio website](https://studywithdaim.weebly.com/) for complete background and contact.
 
 <details open>
-<summary>🤝 <b>To connect with me </b><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Handshake.gif" height="32px">
+<summary>🤝 <b>To connect with me </b><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Handshake.gif" height="29px">
 </summary>
   
   
