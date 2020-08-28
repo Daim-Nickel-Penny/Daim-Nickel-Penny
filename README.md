@@ -1,4 +1,4 @@
-### Hi there I am Daim👋 👨‍💻
+<h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm Daim Khan</a>. Welcome to my GitHub! 🤗</h1>
 
 I am an Android and MERN stack developer.
 
@@ -10,7 +10,8 @@ I am an Android and MERN stack developer.
 - 🌐 Visit my [porfolio website](https://studywithdaim.weebly.com/) for complete background and contact.
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>To connect with me </b><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Handshake.gif" height="32px">
+</summary>
   
   
 <p align = "center">
