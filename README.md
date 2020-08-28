@@ -1,5 +1,6 @@
 <h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >𝓘'𝓶 𝓓𝓪𝓲𝓶 𝓚𝓱𝓪𝓷</a>. 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫! 🤗</h1>
 
+<br>
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in full stack web development,mobile app development, data structures and algorithms.
 - 🤝 Open for collaborations in Web App or Mobile App development.
