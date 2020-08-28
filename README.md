@@ -1,6 +1,5 @@
 <h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm Daim Khan</a>. Welcome to my GitHub! 🤗</h1>
 
-            I am an Android and MERN stack developer.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in full stack web development,mobile app development, data structures and algorithms.
 - 🤝 Open for collaborations in Web App or Mobile App development.
@@ -16,10 +15,8 @@
   
   
 <p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DaimNickelPenny) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/i_am_daim_/?hl=en)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny)
+| [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/i_am_daim_)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/) | [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:daimk558@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|
 
 </p>
 </details>
