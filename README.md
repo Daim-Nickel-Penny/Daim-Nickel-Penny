@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm Daim Khan</a>. Welcome to my GitHub! 🤗</h1>
+<h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >𝓘'𝓶 𝓓𝓪𝓲𝓶 𝓚𝓱𝓪𝓷</a>. 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫! 🤗</h1>
 
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in full stack web development,mobile app development, data structures and algorithms.
@@ -15,7 +15,7 @@
   
   
 
-[<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32"  style="max-width:100%, margin-right:22px">](https://www.instagram.com/i_am_daim_)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/)  [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:daimk558@gmail.com)
+[<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32"  style="max-width:100%; margin-right:22px">](https://www.instagram.com/i_am_daim_)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/)  [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:daimk558@gmail.com)
 
 
 </details>
