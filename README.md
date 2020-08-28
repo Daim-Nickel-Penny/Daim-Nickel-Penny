@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm Daim Khan</a>. Welcome to my GitHub! 🤗</h1>
 
-I am an Android and MERN stack developer.
+            I am an Android and MERN stack developer.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in full stack web development,mobile app development, data structures and algorithms.
 - 🤝 Open for collaborations in Web App or Mobile App development.
