@@ -27,10 +27,10 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=Daim-Nickel-Penny&theme=highcontrast&show_icons=true&count_private=true)
+
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Daim-Nickel-Penny&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Daim-Nickel-Penny&theme=highcontrast&show_icons=true&count_private=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daim-Nickel-Penny&theme=tokyonight">
 </p>
 
