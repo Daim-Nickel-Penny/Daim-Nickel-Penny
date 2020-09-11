@@ -28,7 +28,7 @@ echo "Reach out to him on any of the links above"
 ---
 
 <details open>
-
+ <img width="55%" align="right" alt="code code repeat code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" />
   <summary> <b>Languages and Tools :</b></summary>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
