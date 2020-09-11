@@ -1,12 +1,13 @@
 <h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >𝓘'𝓶 𝓓𝓪𝓲𝓶 𝓚𝓱𝓪𝓷</a>. 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫! 🤗</h1>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 👨🏽‍💻 Currently working, learning and growing my skillset in full stack web development,mobile app development, data structures and algorithms.
-- 🤝 Open for collaborations in Web App or Mobile App development.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in developing field.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 👨🏽‍💻 Currently working, learning and growing my skillset<br/> in full stack web development,mobile app development,<br/> data structures and algorithms.<br/>
+- 🤝 Open for collaborations in <br/>Web App or Mobile App development.<br/>
+- 😊 Willing to contribute in <br/>opensource development projects.<br/>
+- 👍 Looking for opportunities to join as an intern/full time in developing field.<br/>
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.<br/>
+<br/>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in) or <a href="mailto:daimk558@gmail.com">Email</a>
 - 🌐 Visit my [porfolio website](https://studywithdaim.weebly.com/) for complete background and contact.
 
