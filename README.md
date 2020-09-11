@@ -15,9 +15,7 @@
 <summary>🤝 <b>How to run? </b><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Handshake.gif" height="29px">
 </summary>
   
-```shell
-echo "Reach out to him on any of the links above"
-```
+
 
 [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32"  style="max-width:100%; margin-right:22px">](https://www.instagram.com/i_am_daim_)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/)  [<img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:daimk558@gmail.com)
 
