@@ -42,6 +42,7 @@ echo "Reach out to him on any of the links above"
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
+  <br/>
   
 
 </details>
