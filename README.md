@@ -3,8 +3,8 @@
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 👨🏽‍💻 Currently working, learning and growing my skillset<br/> in full stack web development,mobile app development,<br/> data structures and algorithms.<br/>
-- 🤝 Open for collaborations in <br/>Web App or Mobile App development.<br/>
-- 😊 Willing to contribute in <br/>opensource development projects.<br/>
+- 🤝 Open for collaborations in Web App or Mobile App development.<br/>
+- 😊 Willing to contribute in opensource development projects.<br/>
 - 👍 Looking for opportunities to join as an intern/full time in developing field.<br/>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.<br/>
 <br/>
