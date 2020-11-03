@@ -16,7 +16,7 @@
 </summary>
   
 ```shell
-echo "Reach out to him on any of the links above"
+echo "Reach out to me on any of the links above"
 ```
 <br/>
 
