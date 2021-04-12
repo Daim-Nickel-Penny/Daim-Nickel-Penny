@@ -8,8 +8,8 @@
 - 👍 Looking for opportunities to join as an intern/full time in developing field.<br/>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.<br/>
 <br/>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in) or <a href="mailto:daimk558@gmail.com">Email</a><br/>
-- 🌐 Visit my [porfolio website](https://studywithdaim.weebly.com/) for complete background and contact.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/daim/">LinkedIn</a> or <a href="mailto:daimk558@gmail.com">Email</a><br/>
+- 🌐 Visit my  <a href="http://daimk1.web.app/">Portfolio Website</a> for complete background and contact.
 
 <details open>
 <summary>🤝 <b>How to run? </b><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/Handshake.gif" height="29px">
