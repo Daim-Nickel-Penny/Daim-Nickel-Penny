@@ -1,5 +1,8 @@
 <h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> <br >𝓘'𝓶 𝓓𝓪𝓲𝓶 𝓚𝓱𝓪𝓷</a>. 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫! 🤗</h1><br/>
 
+  
+ ![counter](https://eng5fioy90ren0n.m.pipedream.net)
+
 
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 👨🏽‍💻 Currently working, learning and growing my skillset<br/> in full stack web development,mobile app development,<br/> data structures and algorithms.<br/>
