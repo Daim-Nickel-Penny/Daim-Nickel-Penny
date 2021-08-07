@@ -3,7 +3,15 @@
 </h1><br/>
 
 <p align="center">
-  <img src="https://eng5fioy90ren0n.m.pipedream.net" width="135" alt="Profile View" />
+  <a 
+href="https://daimk1.web.app/" target="_blank">
+  <img src="https://eng5fioy90ren0n.m.pipedream.net" width="135" alt="Profile View" /> 
+  </a> 
+ <a 
+href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=14122375"  width="170">
+  </a> 
+  
 </p>
 
 
