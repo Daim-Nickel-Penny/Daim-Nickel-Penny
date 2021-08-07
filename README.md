@@ -33,6 +33,17 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375"  width="170">
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.<br/>
 <br/>
 
+<h2 align="center">My NPM Package's Current Download</h2>
+ <p align="center">
+  <a 
+href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats" 
+src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDaim-Nickel-Penny%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json"  width="240">
+  </a> 
+  
+  </p>
+  
+
+
   <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/daim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Daim's LinkedIn" height="30" width="40" /></a>
