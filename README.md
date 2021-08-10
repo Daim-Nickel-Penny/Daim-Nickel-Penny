@@ -46,11 +46,11 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 
   <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/daim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Daim's LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/i_am_daim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="@i_am_daim" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_daim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@i_am_daim_" height="30" width="40" /></a>
-<a href="mailto:daimk558@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="daimk558@gmail.com" height="30" width="40" /></a>
-<a href="https://daimk1.web.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="my website" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daim/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="Daim's LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_daim" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="@i_am_daim" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_daim_" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="@i_am_daim_" height="30" width="40" /></a>
+<a href="mailto:daimk558@gmail.com" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="daimk558@gmail.com" height="30" width="40" /></a>
+<a href="https://daimk1.web.app/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" alt="my website" height="30" width="40" /></a>
 
 </p>
 
