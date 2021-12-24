@@ -85,6 +85,10 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 
 </br>
 
+[![Daim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daim-Nickel-Penny&theme=react-dark)](https://github.com/Daim-Nickel-Penny)
+
+
+
 <p align="center">
   ᴛᴀᴋᴇ ᴀ ᴘᴇᴇᴋ ᴀᴛ ᴍʏ ʀᴇᴘᴏꜱ 😄 ᴀɴᴅ ꜱᴇɴᴅ ᴛʜᴇᴍ ꜱᴏᴍᴇ ʟᴏᴠᴇ ɪꜰ ʏᴏᴜ ʟɪᴋᴇ ᴛʜᴇᴍ 🌟.
 </p>
