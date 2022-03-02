@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> 
+<h1 align="center"> <a href="#"><img src="https://github.com/Daim-Nickel-Penny/Daim-Nickel-Penny/blob/master/Assets/hello.gif" alt="hello-gif"> </a>
 <h3 align="center">ᴊᴀᴠᴀ+ᴊꜱ+ᴘʏᴛʜᴏɴ 📖 | ᴍᴇʀɴ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 | ʀᴇᴀᴄᴛ ɪꜱ ᴀᴡᴇꜱᴏᴍᴇ ⚛️ </h3>
 </h1><br/>
 
@@ -53,7 +53,7 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 </p>
 
 <br/>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="700">
+<a href="#"><img align="center" src="/github-metrics.svg" alt="Metrics" width="580"></a>
 
   
 <h2 align="center">Languages and Tools:</h2>
