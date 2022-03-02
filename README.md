@@ -22,9 +22,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 - 🐱‍💻 I do full-stack web + Android development
 
-- 🤝 Open for collaborations in Web App or Mobile App development.<br/>
+- 🤝 Open for collaborations in Web App development.<br/>
 
 - 😊 Willing to contribute in opensource development projects.<br/>
+
+- 🎸 Frequently play with code & occasionally play with chords.
 
 - ⬇️ My NPM Downloads    <a 
 href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats" 
@@ -58,22 +60,21 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 </p>
   
 <h2 align="center">Languages and Tools:</h2>
-<p align="center"> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com/docs" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://material-ui.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<p align="center"> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com/docs" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://material-ui.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialUI" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.prisma.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnnYlmlxe67CtuSstx4oMBxW0eWi29jjWsm6lNQCQr6JFnEyzhmt7_ADtuH0_pqUn0GI&usqp=CAU" alt="prisma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 <br/>
 <br/>
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+<h2 align="center">My Github Stats</h2>
 
-<br>
+
 
 
 <p align = "center">
 
 
   <img src = "https://github-readme-stats.vercel.app/api?username=Daim-Nickel-Penny&theme=highcontrast&show_icons=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daim-Nickel-Penny&theme=highcontrast">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Daim-Nickel-Penny&exclude_repo=Fly-Deals-Backend,Airplane_Accident_Severity,Flight-Fare-Predictor&hide=tex&layout=compact&langs_count=7&theme=highcontrast">
   
 </p>
 
@@ -82,7 +83,7 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 
 </br>
 
-
+<h2 align="center">Smile :) It's Free</h2>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=black&qColor=yellow&aColor=skyblue&borderColor=orange" alt="Jokes Card" align="center"/><br/>
   ᴛᴀᴋᴇ ᴀ ᴘᴇᴇᴋ ᴀᴛ ᴍʏ ʀᴇᴘᴏꜱ 😄 ᴀɴᴅ ꜱᴇɴᴅ ᴛʜᴇᴍ ꜱᴏᴍᴇ ʟᴏᴠᴇ ɪꜰ ʏᴏᴜ ʟɪᴋᴇ ᴛʜᴇᴍ 🌟.
