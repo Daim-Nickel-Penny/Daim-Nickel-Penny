@@ -47,7 +47,6 @@ jobs:
           plugin_code_visibility: public
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
           plugin_tweets_user: i_am_daim
           plugin_tweets_limit: 3
 
