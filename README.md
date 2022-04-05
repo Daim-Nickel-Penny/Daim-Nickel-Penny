@@ -30,7 +30,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 - ⬇️ My NPM Downloads    <a 
 href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats" 
-src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDaim-Nickel-Penny%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json"  width="240">
+src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDaim-Nickel-Penny%2FFetch-Npm-Stats%2Fmaster%2Fstats.json"  width="240">
   </a> 
 
 <h2 align="center">I am listening to:</h2>
