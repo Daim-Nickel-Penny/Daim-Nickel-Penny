@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1638" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1621" class="">
     <defs>
         <style/>
     </defs>
@@ -36,8 +36,8 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            505 Commits
+                            506 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -290,6 +290,23 @@
                             i_am_daim
                         </div>
                         <div class="tweet">
+                            The other day I created an animated mouse cursor
+                            <span class="hashtag">#react</span>
+                            component. As of now, it works fine as a component, but I was thinking of converting it into an NPM package. Is anyone up for a collab?
+                            <br />
+                            Link:
+                            <a href="https://t.co/WwFLl3skhx" class="link">github.com/Daim-Nickel-Pe…</a>
+                            <br />
+                            <br />
+                            <span class="hashtag">#100DaysOfCode</span>
+                            <span class="hashtag">#Python</span>
+                            <span class="hashtag">#javascript</span>
+                            <span class="hashtag">#js</span>
+                            <span class="hashtag">#java</span>
+                            <span class="hashtag">#nodejs</span>
+                            <div class="date">13:10:27 on 21 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             I use my music to medicate
                             <br />
                             I use my music to get to a better place
@@ -317,21 +334,6 @@
                             <span class="hashtag">#100DaysOfCode</span>
                             <span class="hashtag">#webdev</span>
                             <div class="date">13:04:08 on 17 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            𝓖𝓾𝓲𝓽𝓪𝓻 𝓓𝓲𝓪𝓻𝓲𝓮𝓼:
-                            <br />
-                            First of all, I, for the first time played Martin Reimagined Series D-28. OMFG. Strumming was like BUTTER.
-                            <br />
-                            Btw, this week's best songs were - My Sweet Lord, I will &amp; Stairway to Heaven
-                            <br />
-                            <br />
-                            ♫•*¨*•.¸¸♪ ♪̊̈♪̆̈ ♫･*:.｡. .｡*･
-                            <br />
-                            <span class="hashtag">#guitar</span>
-                            <span class="hashtag">#music</span>
-                            <span class="hashtag">#guitars</span>
-                            <div class="date">11:44:05 on 16 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -375,7 +377,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.28
+                            Average per day at ~1.27
                         </div>
                     </section>
                 </div>
@@ -2345,6 +2347,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2488,7 +2495,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.5462012320328578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2527,7 +2534,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="108.26633165829146 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.04522613065328 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2549,10 +2556,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">140</div>
+                                        <div class="value">141</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 140 times</div>
+                                <div class="text">Repositories have been deployed 141 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2842,7 +2849,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.07m out of 307m repositories</span>
+                                    <span class="gh">ranked 4.08m out of 308m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2996,7 +3003,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 May 2022, 21:46:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 21:44:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
