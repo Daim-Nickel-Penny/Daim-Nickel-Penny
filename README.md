@@ -37,20 +37,7 @@ src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com
 <div align="center">
   
 [![Spotify](https://spotify-live-two.vercel.app/api/spotify)](https://open.spotify.com/user/fwci60alle1oxjhsud1py4jz5)
-  
-</p>
 
-  <h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/daim/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="Daim's LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/i_am_daim" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="@i_am_daim" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_daim_" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="@i_am_daim_" height="30" width="40" /></a>
-<a href="mailto:daimk558@gmail.com" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="daimk558@gmail.com" height="30" width="40" /></a>
-<a href="https://daimk1.web.app/" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg" alt="my website" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/11551099/i-am-daim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stack overflow" height="40" width="40" /></a>
-  <a href="https://rarible.com/daim" target="blank"><img align="center" src="https://seeklogo.com/images/R/rarible-logo-C237AACF7C-seeklogo.com.png" alt="stack overflow" height="40" width="40" /></a>
-
-</p>
 
 <br/>
 <a href="#"><img align="center" src="/github-metrics.svg" alt="Metrics" width="580"></a>
