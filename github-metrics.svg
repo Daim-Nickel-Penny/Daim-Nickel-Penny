@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1697" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1513" class="">
     <defs>
         <style/>
     </defs>
@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -337,32 +337,6 @@
                             <span class="hashtag">#react</span>
                             <span class="hashtag">#software</span>
                             <div class="date">15:06:53 on 12 Nov 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Tired of doing "git bash here" in folders.
-                            <br />
-                            I got the best hack.
-                            <br />
-                            Go to the desired code folder and press the "context menu key" and then press "s".
-                            <br />
-                            <br />
-                            Adding img for ref
-                            <br />
-                            <br />
-                            <span class="hashtag">#100DaysOfCode</span>
-                            <span class="hashtag">#Python</span>
-                            <span class="hashtag">#javascript</span>
-                            <span class="hashtag">#js</span>
-                            <span class="hashtag">#java</span>
-                            <span class="hashtag">#nodejs</span>
-                            <span class="hashtag">#Coding</span>
-                            <span class="hashtag">#typecript</span>
-                            <span class="hashtag">#dev</span>
-                            <span class="hashtag">#tech</span>
-                            <span class="hashtag">#programming</span>
-                            <span class="hashtag">#Linux</span>
-                            <a href="https://t.co/8leEe2qCKb" class="link">pic.twitter.com/8leEe2qCKb</a>
-                            <div class="date">20:34:49 on 8 Nov 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2356,6 +2330,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2499,7 +2478,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.516666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2521,10 +2500,10 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">320</div>
+                                        <div class="value">321</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 320 times</div>
+                                <div class="text">Repositories have been deployed 321 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2537,7 +2516,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.2731006160164116 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191812 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3007,7 +2986,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2022, 21:46:10 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 21:45:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
