@@ -16,7 +16,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 
 
-<img width="50%" align="right" alt="Github" src="https://i.imgur.com/PiraUeH.gif" />
+<img width="30%" align="right" alt="Github" src="https://i.imgur.com/PiraUeH.gif" />
 
 - 👨🏽‍💻 Working, learning, and expanding my skill set in software development. <br/>
 
@@ -33,13 +33,16 @@ href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats"
 src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDaim-Nickel-Penny%2FFetch-Npm-Stats%2Fmaster%2Fstats.json"  width="240">
   </a> 
 
+
+
+
+<br>
+<br>
 <h2 align="center">I am listening to:</h2>
 <div align="center">
   
 [![Spotify](https://spotify-live-two.vercel.app/api/spotify)](https://open.spotify.com/user/fwci60alle1oxjhsud1py4jz5)
 
-
-<br/>
 
 
   
