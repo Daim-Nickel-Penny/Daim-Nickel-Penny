@@ -16,7 +16,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 
 
-<img width="30%" align="right" alt="Github" src="https://i.imgur.com/PiraUeH.gif" />
+<img width="30%" align="right" alt="Github" src="https://imgur.com/sms1PHL" />
 
 - 👨🏽‍💻 Working, learning, and expanding my skill set in software development. <br/>
 
