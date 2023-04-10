@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1690" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1711" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tweet{font-size:13px;margin-top:6px;margin-bottom:16px;margin-left:18px;border-left:3px solid #777777b2;padding-left:6px}.tweet .hashtag,.tweet .link,.tweet .mention{color:#0366d6}.tweet .date{margin:6px 0;font-size:12px;color:#666}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .bold{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.constant,.token.keyword,.token.namespace,.token.symbol{color:#b44418}.token.string{color:#2777aa}.token.property,.token.tag{color:#48428a}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.achievement .gauge.info,.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tweet{font-size:13px;margin-top:6px;margin-bottom:16px;margin-left:18px;border-left:3px solid #777777b2;padding-left:6px}.tweet .hashtag,.tweet .link,.tweet .mention{color:#0366d6}.tweet .date{margin:6px 0;font-size:12px;color:#666}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            629 Commits
+                            634 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            14 Pull requests opened
+                            15 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,13 +191,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    38 Stargazers
+                                    39 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    7 Forkers
+                                    8 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,10 +225,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.48774010507304" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="326.48774010507304" y="0" width="77.49764534140488" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="403.98538544647795" y="0" width="46.13619906143556" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="450.1215845079135" y="0" width="9.878415492086532" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.6781857024498" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="326.6781857024498" y="0" width="77.3871005466875" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="404.06528624913733" y="0" width="46.07038910512246" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.1356753542598" y="0" width="9.864324645740236" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -263,12 +263,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 8 commits)</small>
+                    <small class="h-details">(computed from last 11 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 750.3 characters per line of code written</li>
+                        <li>Has approximately 74.6 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -290,6 +290,11 @@
                             i_am_daim
                         </div>
                         <div class="tweet">
+                            <span class="mention">@rchardkovacs</span>
+                            I am 🙌🏻! Having an AI sidekick somehow makes my development more productive.
+                            <div class="date">22:32:49 on 9 Apr 2023</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@trashh_dev</span>
                             aren't you in high school? 🙃
                             <div class="date">20:59:14 on 8 Apr 2023</div>
@@ -307,10 +312,6 @@
                             <span class="hashtag">#coding</span>
                             <a href="https://t.co/N4C9cotbQU" class="link">pic.twitter.com/N4C9cotbQU</a>
                             <div class="date">20:19:58 on 8 Apr 2023</div>
-                        </div>
-                        <div class="tweet">
-                            LSP is insane !!!!!✨
-                            <div class="date">19:16:16 on 7 Apr 2023</div>
                         </div>
                     </section>
                 </div>
@@ -336,13 +337,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 4 days
+                            Current streak 5 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 26 days
+                            Best streak 19 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -360,7 +361,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.71
+                            Average per day at ~0.70
                         </div>
                     </section>
                 </div>
@@ -381,30 +382,30 @@
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 4.714285714285714)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 6.142857142857143)">
+                            <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.285714285714286)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                            <g transform="translate(-1.7, 6.571428571428571)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 7.571428571428571)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.714285714285715)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                            <g transform="translate(-6.8, 9.571428571428571)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -443,43 +444,6 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(3.4, 2)">
-                            <g transform="translate(0, 5.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 6.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 7.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 8.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 9.571428571428571)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
-                            </g>
                             <g transform="translate(-8.5, 7.571428571428571)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
@@ -491,7 +455,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                         </g>
-                        <g transform="translate(5.1, 3)">
+                        <g transform="translate(3.4, 2)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -528,11 +492,11 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.857142857142858 1.7,5.857142857142858 z"/>
                             </g>
                         </g>
-                        <g transform="translate(6.8, 4)">
+                        <g transform="translate(5.1, 3)">
                             <g transform="translate(0, 5.142857142857143)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -540,9 +504,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.714285714285714)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -563,6 +527,43 @@
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(6.8, 4)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 11.571428571428571)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
                         <g transform="translate(8.5, 5)">
@@ -596,10 +597,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
                         <g transform="translate(10.2, 6)">
@@ -608,10 +609,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 1)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -645,10 +646,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 1)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,8 0,7 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,7 1.7,8 z"/>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -729,43 +730,6 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(17, 10)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-5.1, 8.142857142857142)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
@@ -787,11 +751,48 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(18.7, 11)">
+                        <g transform="translate(17, 10)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(18.7, 11)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1225,10 +1226,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 9)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
                         </g>
                         <g transform="translate(39.1, 23)">
@@ -1262,50 +1263,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 9)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(40.8, 24)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(42.5, 25)">
+                        <g transform="translate(40.8, 24)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1342,7 +1306,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(44.199999999999996, 26)">
+                        <g transform="translate(42.5, 25)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1367,6 +1331,43 @@
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1479,10 +1480,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.571428571428571)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1516,10 +1517,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.571428571428571)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1558,10 +1559,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 9.428571428571429)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
                         <g transform="translate(54.4, 32)">
@@ -1575,47 +1576,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 9.428571428571429)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(56.1, 33)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-3.4, 6.714285714285714)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1628,17 +1592,17 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 9.714285714285715)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-10.2, 10.285714285714285)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                             </g>
                         </g>
-                        <g transform="translate(57.8, 34)">
+                        <g transform="translate(56.1, 33)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1675,11 +1639,48 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(59.5, 35)">
+                        <g transform="translate(57.8, 34)">
                             <g transform="translate(0, 4.285714285714286)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(59.5, 35)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1743,50 +1744,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(62.9, 37)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-10.2, 10.714285714285715)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                         </g>
-                        <g transform="translate(64.6, 38)">
+                        <g transform="translate(62.9, 37)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1823,7 +1787,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
                         </g>
-                        <g transform="translate(66.3, 39)">
+                        <g transform="translate(64.6, 38)">
                             <g transform="translate(0, 5.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
@@ -1860,7 +1824,7 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
                             </g>
                         </g>
-                        <g transform="translate(68, 40)">
+                        <g transform="translate(66.3, 39)">
                             <g transform="translate(0, 4.714285714285714)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
@@ -1897,7 +1861,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(69.7, 41)">
+                        <g transform="translate(68, 40)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -1934,7 +1898,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(71.39999999999999, 42)">
+                        <g transform="translate(69.7, 41)">
                             <g transform="translate(0, 5.142857142857143)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
@@ -1971,7 +1935,7 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(73.1, 43)">
+                        <g transform="translate(71.39999999999999, 42)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2008,16 +1972,16 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(74.8, 44)">
+                        <g transform="translate(73.1, 43)">
                             <g transform="translate(0, 5.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2025,14 +1989,14 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2040,12 +2004,12 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.571428571428571)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                         </g>
-                        <g transform="translate(76.5, 45)">
+                        <g transform="translate(74.8, 44)">
                             <g transform="translate(0, 5.142857142857143)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
@@ -2075,6 +2039,43 @@
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(76.5, 45)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 6.714285714285714)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2130,10 +2131,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6.714285714285714)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2199,43 +2200,6 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                        </g>
-                        <g transform="translate(85, 50)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                             <g transform="translate(-1.7, 5.714285714285714)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
@@ -2267,7 +2231,7 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
-                        <g transform="translate(86.7, 51)">
+                        <g transform="translate(85, 50)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2284,9 +2248,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 5.571428571428571)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2299,12 +2263,12 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-10.2, 9.857142857142858)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.142857142857142 0,3.142857142857143 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.142857142857143 1.7,4.142857142857142 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.142857142857142 0,3.142857142857143 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.142857142857143 1.7,4.142857142857142 z"/>
                             </g>
                         </g>
-                        <g transform="translate(88.39999999999999, 52)">
+                        <g transform="translate(86.7, 51)">
                             <g transform="translate(0, 6)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
@@ -2335,10 +2299,17 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
-                            <g transform="translate(-10.2, 7.714285714285714)">
+                            <g transform="translate(-10.2, 7.285714285714286)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.285714285714286 0,5.285714285714286 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.285714285714286 1.7,6.285714285714286 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.714285714285714 0,5.714285714285714 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.714285714285714 1.7,6.714285714285714 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(88.39999999999999, 52)">
+                            <g transform="translate(0, 2.5714285714285716)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.428571428571429 0,4.428571428571429 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
                             </g>
                         </g>
                     </g>
@@ -2430,7 +2401,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 140k out of 112m users</span>
+                                    <span class="gh">ranked 140k out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">105</div>
                                     </div>
@@ -2473,7 +2444,7 @@
                                 <div class="text">Using 9 different programming languages</div>
                             </div>
                         </div>
-                        <div class="achievement b largeable-width-half">
+                        <div class="achievement a largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -2483,32 +2454,32 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="154.48333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#B2A8FF">
+                                            <g stroke="#FFD576">
                                                 <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
                                                 <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
                                             </g>
-                                            <g stroke="#B2A8FF" stroke-linecap="round" stroke-linejoin="round">
+                                            <g stroke="#FFD576" stroke-linecap="round" stroke-linejoin="round">
                                                 <path d="M47.01 41.009h-4M45.016 39v4"/>
                                             </g>
-                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#7D6CFF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#B2A8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
+                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#B59151" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#FFD576" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Great</span>
+                                    <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">499</div>
+                                        <div class="value">504</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 499 times</div>
+                                <div class="text">Repositories have been deployed 504 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2521,7 +2492,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.86550308008212 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2595,7 +2566,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.482412060301506 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.26130653266332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2623,10 +2594,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">35</div>
+                                        <div class="value">36</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 35 pull requests</div>
+                                <div class="text">Opened 36 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2710,7 +2681,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.16m out of 112m users</span>
+                                    <span class="gh">ranked 1.16m out of 113m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -2728,7 +2699,56 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.46546546546546547 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5656565656565657 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
+                                            <path d="M20.065 47.122c.44-.525.58-1.448.58-1.889 0-2.204-1.483-3.967-3.633-4.187.447-1.537.58-2.64.397-3.31-.25-.92-.745-1.646-1.409-2.235m-5.97-7.157c.371-.254.911-.748 1.62-1.48a8.662 8.662 0 001.432-2.366M47 22h-7c-1.538 0-2.749-.357-4-1h-5c-1.789.001-3-1.3-3-2.955 0-1.656 1.211-3.04 3-3.045h2c.027-1.129.513-2.17 1-3m3.082 32.004C34.545 43.028 34.02 40.569 34 39v-1h-1c-2.603-.318-5-2.913-5-5.997S30.397 26 33 26h9c2.384 0 4.326 1.024 5.27 3" stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                                            <g transform="translate(36)" stroke="#2088FF" stroke-width="2">
+                                                <path fill="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M5.395 5.352L6.009 4l.598 1.348L8 5.408l-1.067 1.12.425 1.47-1.356-.908-1.35.91.404-1.469L4 5.41z"/>
+                                                <circle cx="6" cy="6" r="6"/>
+                                            </g>
+                                            <g transform="translate(0 31)" stroke="#2088FF" stroke-width="2">
+                                                <circle cx="6" cy="6" r="6"/>
+                                                <g stroke-linecap="round">
+                                                    <path d="M6 4v4M4 6h4"/>
+                                                </g>
+                                            </g>
+                                            <circle stroke="#2088FF" stroke-width="2" cx="10.5" cy="10.5" r="10.5"/>
+                                            <g stroke-linecap="round">
+                                                <path d="M32.01 1.37A23.96 23.96 0 0024 0c-.999 0-1.983.061-2.95.18M.32 20.072a24.21 24.21 0 00.015 7.948M12.42 45.025A23.892 23.892 0 0024 48c13.255 0 24-10.745 24-24 0-2.811-.483-5.51-1.371-8.016" stroke="#79B8FF" stroke-width="2"/>
+                                                <path stroke="#2088FF" stroke-width="2" d="M8.999 7.151v5.865"/>
+                                                <path d="M9 3a2 2 0 110 4 2 2 0 010-4zm0 10.8a2 2 0 11-.001 4 2 2 0 01.001-4z" stroke="#2088FF" stroke-width="1.8"/>
+                                                <path d="M9.622 11.838c.138-.007.989.119 1.595-.05.607-.169 1.584-.539 1.829-1.337" stroke="#2088FF" stroke-width="2"/>
+                                                <path d="M14.8 7.202a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-width="1.8"/>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Inspirer
+                                    <span class="gh">ranked 3.15m out of 392m repositories</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">2</div>
+                                    </div>
+                                </div>
+                                <div class="text">Maintaining or created a repository which has been forked 2 times</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6206206206206206 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2751,11 +2771,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
+                                    <span class="gh">ranked 2.68m out of 392m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">4</div>
+                                        <div class="value">5</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 4 stars</div>
+                                <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2830,55 +2851,6 @@
                                     </div>
                                 </div>
                                 <div class="text">Joined 1 organization</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
-                                            <path d="M20.065 47.122c.44-.525.58-1.448.58-1.889 0-2.204-1.483-3.967-3.633-4.187.447-1.537.58-2.64.397-3.31-.25-.92-.745-1.646-1.409-2.235m-5.97-7.157c.371-.254.911-.748 1.62-1.48a8.662 8.662 0 001.432-2.366M47 22h-7c-1.538 0-2.749-.357-4-1h-5c-1.789.001-3-1.3-3-2.955 0-1.656 1.211-3.04 3-3.045h2c.027-1.129.513-2.17 1-3m3.082 32.004C34.545 43.028 34.02 40.569 34 39v-1h-1c-2.603-.318-5-2.913-5-5.997S30.397 26 33 26h9c2.384 0 4.326 1.024 5.27 3" stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-                                            <g transform="translate(36)" stroke="#2088FF" stroke-width="2">
-                                                <path fill="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M5.395 5.352L6.009 4l.598 1.348L8 5.408l-1.067 1.12.425 1.47-1.356-.908-1.35.91.404-1.469L4 5.41z"/>
-                                                <circle cx="6" cy="6" r="6"/>
-                                            </g>
-                                            <g transform="translate(0 31)" stroke="#2088FF" stroke-width="2">
-                                                <circle cx="6" cy="6" r="6"/>
-                                                <g stroke-linecap="round">
-                                                    <path d="M6 4v4M4 6h4"/>
-                                                </g>
-                                            </g>
-                                            <circle stroke="#2088FF" stroke-width="2" cx="10.5" cy="10.5" r="10.5"/>
-                                            <g stroke-linecap="round">
-                                                <path d="M32.01 1.37A23.96 23.96 0 0024 0c-.999 0-1.983.061-2.95.18M.32 20.072a24.21 24.21 0 00.015 7.948M12.42 45.025A23.892 23.892 0 0024 48c13.255 0 24-10.745 24-24 0-2.811-.483-5.51-1.371-8.016" stroke="#79B8FF" stroke-width="2"/>
-                                                <path stroke="#2088FF" stroke-width="2" d="M8.999 7.151v5.865"/>
-                                                <path d="M9 3a2 2 0 110 4 2 2 0 010-4zm0 10.8a2 2 0 11-.001 4 2 2 0 01.001-4z" stroke="#2088FF" stroke-width="1.8"/>
-                                                <path d="M9.622 11.838c.138-.007.989.119 1.595-.05.607-.169 1.584-.539 1.829-1.337" stroke="#2088FF" stroke-width="2"/>
-                                                <path d="M14.8 7.202a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-width="1.8"/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Inspirer
-                                    <span class="gh">ranked 4.72m out of 392m repositories</span>
-                                    <div class="value-wrapper">
-                                        <div class="value">1</div>
-                                    </div>
-                                </div>
-                                <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3021,7 +2993,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Daim-Nickel-Penny/vscode-settings</span>
+                            <span class="blue space">Daim-Nickel-Penny/brain</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -3029,7 +3001,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Apr 2023, 19:58:03
+                            On 10 Apr 2023, 00:08:23
                         </div>
                     </section>
                 </div>
@@ -3039,16 +3011,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Vs-code-profile
+                            Git folder added
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">527ee14a</span>
-                            <span class="code">daimond.code-profile</span>
+                            <span class="code">f86a0caf</span>
+                            <span class="code">docs/scrape</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++7</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -3057,14 +3029,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"name":"daimond","settings":"{\"settings\":\"{\\r\\n  \\\"liveshare.launcherClient\\\": \\\"visualStudioCode\\\",\\r\\n  \\\"workbench.iconTheme\\\": \\\"material-icon-theme\\\",\\r\\n  \\\"[typescript]\\\": {\\r\\n    \\\"editor.defaultFormatter\\\": \\\"esbenp.prettier-vscode\\\"\\r\\n  },\\r\\n  \\\"workbench.colorTheme\\\": \\\"Community Material Theme Palenight High Contrast\\\",\\r\\n  \\\"editor.tokenColorCustomizations\\\": {\\r\\n    \\\"textMateRules\\\": [\\r\\n      {\\r\\n        \\\"name\\\": \\\"envKeys\\\",\\r\\n        \\\"scope\\\": \\\"string.quoted.single.ini,constant.numeric.ini,string.quoted.double.ini\\\",\\r\\n        \\\"settings\\\": {\\r\\n          \\\"foreground\\\": \\\"#19354900\\\"\\r\\n        }\\r\\n      }\\r\\n    ]\\r\\n  },\\r\\n  \\\"editor.formatOnSave\\\": true,\\r\\n  \\\"background.editorBackgrounds\\\": [\\\"c:/Me/vs-code-bg.png.jpg\\\"],\\r\\n  \\\"editor.accessibilitySupport\\\": \\\"off\\\",\\r\\n  \\\"[typescriptreact]\\\": {\\r\\n    \\\"editor.defaultFormatter\\\": \\\"esbenp.prettier-vscode\\\"\\r\\n  },\\r\\n  \\\"[css]\\\": {\\r\\n    \\\"editor.defaultFormatter\\\": \\\"esbenp.prettier-vscode\\\"\\r\\n  },\\r\\n  \\\"background.windowBackgrounds\\\": [\\r\\n    \\\"c:/Me/vs-code-bg.png\\\",\\r\\n    \\\"c:/Me/vs-code-bg.png.jpg\\\"\\r\\n  ],\\r\\n  \\\"background.backgroundRepeat\\\": [\\r\\n    \\\"No Repeat\\\",\\r\\n    \\\"No Repeat\\\",\\r\\n    \\\"No Repeat\\\",\\r\\n    \\\"No Repeat\\\"\\r\\n  ],\\r\\n  \\\"terminal.integrated.defaultProfile.windows\\\": \\\"Git Bash\\\",\\r\\n  \\\"editor.inlineSuggest.enabled\\\": true,\\r\\n  \\\"window.zoomLevel\\\": 1,\\r\\n  \\\"workbench.sideBar.location\\\": \\\"right\\\",\\r\\n  \\\"github.copilot.enable\\\": {\\r\\n    \\\"*\\\": true,\\r\\n    \\\"yaml\\\": false,\\r\\n    \\\"plaintext\\\": false,\\r\\n    \\\"markdown\\\": true,\\r\\n    \\\"scminput\\\": false\\r\\n  },\\r\\n  \\\"background.backgroundBlur\\\": [\\r\\n    \\\"0\\\",\\r\\n    \\\"7\\\",\\r\\n    \\\"0\\\",\\r\\n    \\\"0\\\"\\r\\n  ],\\r\\n  \\\"[json]\\\": {\\r\\n    \\\"editor.defaultFormatter\\\": \\\"esbenp.prettier-vscode\\\"\\r\\n  }\\r\\n}\\r\\n\"}","keybindings":"{\"keybindings\":\"// Place your key bindings in this file to override the defaultsauto[]\\r\\n[\\r\\n    {\\r\\n        \\\"key\\\": \\\"shift+alt+backspace\\\",\\r\\n        \\\"command\\\": \\\"HookyQR.beautifyFile\\\"\\r\\n    },\\r\\n    {\\r\\n        \\\"key\\\": \\\"ctrl+k\\\",\\r\\n        \\\"command\\\": \\\"workbench.action.files.saveAll\\\"\\r\\n    },\\r\\n    {\\r\\n        \\\"key\\\": \\\"ctrl+k s\\\",\\r\\n        \\\"command\\\": \\\"-workbench.action.files.saveAll\\\"\\r\\n    }\\r\\n]\",\"platform\":3}","snippets":"{\"snippets\":{\"javascriptreact.json\":\"{\\n\\t// Place your snippets for javascriptreact here. Each snippet is defined under a snippet name and has a prefix, body and \\n\\t// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:\\n\\t// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the \\n\\t// same ids are connected.\\n\\t// Example:\\n\\t// \\\"Print to console\\\": {\\n\\t// \\t\\\"prefix\\\": \\\"log\\\",\\n\\t// \\t\\\"body\\\": [\\n\\t// \\t\\t\\\"console.log('$1');\\\",\\n\\t// \\t\\t\\\"$2\\\"\\n\\t// \\t],\\n\\t// \\t\\\"description\\\": \\\"Log output to console\\\"\\n\\t// }\\n}\"}}","extensions":"[{\"identifier\":{\"id\":\"apollographql.vscode-apollo\",\"uuid\":\"de44183f-5377-4ceb-ac15-79364a30070c\"},\"displayName\":\"Apollo GraphQL\",\"disabled\":true},{\"identifier\":{\"id\":\"dbaeumer.vscode-eslint\",\"uuid\":\"583b2b34-2c1e-4634-8c0b-0b82e283ea3a\"},\"displayName\":\"ESLint\",\"disabled\":true},{\"identifier\":{\"id\":\"dsznajder.es7-react-js-snippets\",\"uuid\":\"19804510-b475-4dae-b0f7-6ca08fd1af0c\"},\"displayName\":\"ES7+ React/Redux/React-Native snippets\"},{\"identifier\":{\"id\":\"eamodio.gitlens\",\"uuid\":\"4de763bd-505d-4978-9575-2b7696ecf94e\"},\"displayName\":\"GitLens — Git supercharged\"},{\"identifier\":{\"id\":\"equinusocio.vsc-community-material-theme\",\"uuid\":\"bf8aa94a-4051-42fe-9bd1-2becad466fe7\"},\"displayName\":\"Community Material Theme\"},{\"identifier\":{\"id\":\"esbenp.prettier-vscode\",\"uuid\":\"96fa4707-6983-4489-b7c5-d5ffdfdcce90\"},\"displayName\":\"Prettier - Code formatter\"},{\"identifier\":{\"id\":\"github.copilot\",\"uuid\":\"23c4aeee-f844-43cd-b53e-1113e483f1a6\"},\"displayName\":\"GitHub Copilot\"},{\"identifier\":{\"id\":\"github.copilot-labs\",\"uuid\":\"327edf3f-193d-4147-9bd5-e3763272116f\"},\"displayName\":\"GitHub Copilot Labs\"},{\"identifier\":{\"id\":\"github.vscode-pull-request-github\",\"uuid\":\"69ddd764-339a-4ecc-97c1-9c4ece58e36d\"},\"displayName\":\"GitHub Pull Requests and Issues\"},{\"identifier\":{\"id\":\"graphql.vscode-graphql\",\"uuid\":\"55ef6448-487b-49a0-a66e-4d2d9bb82229\"},\"displayName\":\"GraphQL: Language Feature Support\",\"disabled\":true},{\"identifier\":{\"id\":\"graphql.vscode-graphql-syntax\",\"uuid\":\"e1ab76b1-9acd-4ffa-baf7-1d9eaf7cf3d2\"},\"displayName\":\"GraphQL: Syntax Highlighting\",\"disabled\":true},{\"identifier\":{\"id\":\"johnpapa.vscode-cloak\",\"uuid\":\"66d4f4a4-b71b-4c76-9c96-4cc5ca75b3aa\"},\"displayName\":\"Cloak\"},{\"identifier\":{\"id\":\"katsute.code-background\",\"uuid\":\"728b0910-614c-4963-a30b-cc6c0b51eb62\"},\"displayName\":\"Background\"},{\"identifier\":{\"id\":\"mikestead.dotenv\",\"uuid\":\"532533c9-a894-4a58-9eee-bbfbe7c06f71\"},\"displayName\":\"DotENV\"},{\"identifier\":{\"id\":\"ms-vsliveshare.vsliveshare\",\"uuid\":\"5a6dc0d5-dc02-4121-8e24-cad33a2ff0af\"},\"displayName\":\"Live Share\"},{\"identifier\":{\"id\":\"mwpb.java-prettier-formatter\",\"uuid\":\"b744a3c9-2681-4e11-9574-14fdada8d95b\"},\"displayName\":\"Java prettier formatter\"},{\"identifier\":{\"id\":\"pkief.material-icon-theme\",\"uuid\":\"5db78037-f674-459f-a236-db622c427c5b\"},\"displayName\":\"Material Icon Theme\"},{\"identifier\":{\"id\":\"pmndrs.pmndrs\",\"uuid\":\"51c57bc5-73aa-4901-8c2b-1bd0af852e72\"},\"displayName\":\"poimandres\"},{\"identifier\":{\"id\":\"prisma.prisma\",\"uuid\":\"33ce9d6b-41cf-4972-a62b-386f7201981d\"},\"displayName\":\"Prisma\"},{\"identifier\":{\"id\":\"rangav.vscode-thunder-client\",\"uuid\":\"2fd56207-78ef-49d4-95d2-9b801eee4dbf\"},\"displayName\":\"Thunder Client\",\"disabled\":true},{\"identifier\":{\"id\":\"redhat.java\",\"uuid\":\"198a707e-28af-4e84-8610-6e2f628dd12d\"},\"displayName\":\"Language Support for Java(TM) by Red Hat\",\"disabled\":true},{\"identifier\":{\"id\":\"ritwickdey.liveserver\",\"uuid\":\"b63c44fd-0457-4696-99e9-dbfdf70d77de\"},\"displayName\":\"Live Server\",\"disabled\":true},{\"identifier\":{\"id\":\"styled-components.vscode-styled-components\",\"uuid\":\"22a740c5-ec07-4bf0-a58f-1a38aabea310\"},\"displayName\":\"vscode-styled-components\",\"disabled\":true},{\"identifier\":{\"id\":\"unifiedjs.vscode-mdx\",\"uuid\":\"af8cfc85-cb72-45d0-bae2-9a98cd0c69f3\"},\"displayName\":\"MDX\"},{\"identifier\":{\"id\":\"usernamehw.errorlens\",\"uuid\":\"9d8c32ab-354c-4daf-a9bf-20b633734435\"},\"displayName\":\"Error Lens\"},{\"identifier\":{\"id\":\"visualstudioexptteam.intellicode-api-usage-examples\",\"uuid\":\"9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3\"},\"displayName\":\"IntelliCode API Usage Examples\",\"disabled\":true},{\"identifier\":{\"id\":\"visualstudioexptteam.vscodeintellicode\",\"uuid\":\"876e8f93-74d0-4f4f-91b7-34a09f19f444\"},\"displayName\":\"IntelliCode\",\"disabled\":true},{\"identifier\":{\"id\":\"vscjava.vscode-java-debug\",\"uuid\":\"61fcd0cf-64d7-4836-8d6b-d55f4fb83281\"},\"displayName\":\"Debugger for Java\",\"disabled\":true},{\"identifier\":{\"id\":\"vscjava.vscode-java-dependency\",\"uuid\":\"7865e561-1c83-410e-9b99-aabada597a7e\"},\"displayName\":\"Project Manager for Java\",\"disabled\":true},{\"identifier\":{\"id\":\"vscjava.vscode-java-pack\",\"uuid\":\"96f11e1f-1a46-4592-b084-f025b2c2a81f\"},\"displayName\":\"Extension Pack for Java\",\"disabled\":true},{\"identifier\":{\"id\":\"vscjava.vscode-java-test\",\"uuid\":\"67c06b0d-1891-42ca-b2a8-113e79bff069\"},\"displayName\":\"Test Runner for Java\",\"disabled\":true},{\"identifier\":{\"id\":\"wesbos.theme-cobalt2\",\"uuid\":\"fb374ce1-5343-46c8-a425-900fdad15523\"},\"displayName\":\"Cobalt2 Theme Official\",\"disabled\":true},{\"identifier\":{\"id\":\"wix.vscode-import-cost\",\"uuid\":\"c46b0018-f317-4b6c-a785-d2039b27338f\"},\"displayName\":\"Import Cost\"}]","globalState":"{\"storage\":{\"workbench.panel.markers.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.markers.view\\\",\\\"isHidden\\\":false}]\",\"workbench.panel.output.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"isHidden\\\":false}]\",\"terminal.hidden\":\"[{\\\"id\\\":\\\"terminal\\\",\\\"isHidden\\\":false}]\",\"workbench.explorer.views.state.hidden\":\"[{\\\"id\\\":\\\"outline\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"timeline\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.explorer.openEditorsView\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.explorer.emptyView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"npm\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"liveshare.session.explorer\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.explorer.fileView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"javaProjectExplorer\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"mavenProjects\\\",\\\"isHidden\\\":false}]\",\"workbench.scm.views.state.hidden\":\"[{\\\"id\\\":\\\"workbench.scm.repositories\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.scm\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.commits\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.repositories\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"gitlens.views.fileHistory\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.lineHistory\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"gitlens.views.branches\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.remotes\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.stashes\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.tags\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.contributors\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"gitlens.views.searchAndCompare\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.worktrees\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.commitDetails\\\",\\\"isHidden\\\":false}]\",\"workbench.view.search.state.hidden\":\"[{\\\"id\\\":\\\"workbench.view.search\\\",\\\"isHidden\\\":false}]\",\"workbench.activity.pinnedViewlets2\":\"[{\\\"id\\\":\\\"workbench.view.explorer\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":0},{\\\"id\\\":\\\"workbench.view.search\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":1},{\\\"id\\\":\\\"workbench.view.scm\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":2},{\\\"id\\\":\\\"workbench.view.debug\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":3},{\\\"id\\\":\\\"workbench.view.extensions\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.remote\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":4},{\\\"id\\\":\\\"workbench.view.extension.test\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":6},{\\\"id\\\":\\\"workbench.view.extension.references-view\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":7},{\\\"id\\\":\\\"workbench.view.extension.bookmarks\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":8},{\\\"id\\\":\\\"workbench.view.extension.copilot-labs\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":9},{\\\"id\\\":\\\"workbench.view.extension.thunder-client\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":12},{\\\"id\\\":\\\"workbench.view.editSessions\\\",\\\"pinned\\\":true,\\\"visible\\\":false},{\\\"id\\\":\\\"workbench.view.extension.jupyter\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":11},{\\\"id\\\":\\\"workbench.view.extension.flutter\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":8},{\\\"id\\\":\\\"workbench.view.extension.github-pull-requests\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":10},{\\\"id\\\":\\\"workbench.view.extension.github-pull-request\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":11},{\\\"id\\\":\\\"workbench.view.extension.gitlens\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":8},{\\\"id\\\":\\\"workbench.view.extension.liveshare\\\",\\\"pinned\\\":true,\\\"visible\\\":true,\\\"order\\\":12},{\\\"id\\\":\\\"workbench.view.extension.copilot-sidebar-webview\\\",\\\"pinned\\\":true,\\\"visible\\\":false,\\\"order\\\":9},{\\\"id\\\":\\\"workbench.view.sync\\\",\\\"pinned\\\":true,\\\"visible\\\":false},{\\\"id\\\":\\\"userDataProfiles\\\",\\\"pinned\\\":true,\\\"visible\\\":true}]\",\"workbench.view.debug.state.hidden\":\"[{\\\"id\\\":\\\"workbench.debug.welcome\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.variablesView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.watchExpressionsView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.callStackView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.loadedScriptsView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.debug.breakPointsView\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"jsBrowserBreakpoints\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"jsExcludedCallers\\\",\\\"isHidden\\\":false}]\",\"nps/lastSessionDate\":\"Wed Oct 05 2022\",\"nps/sessionCount\":\"9\",\"workbench.telemetryOptOutShown\":\"true\",\"workbench.statusbar.hidden\":\"[\\\"status.feedback\\\",\\\"status.workspaceTrust.423417d93752b0b12fc4131e4c8a04fa\\\",\\\"status.workspaceTrust.8ac9182118eeba7d2bce2c9b7d9b5106\\\",\\\"status.workspaceTrust.b8f988dfc4bf1fce42bffab197cfc715\\\",\\\"status.workspaceTrust.fd7d51dab797628ee3d79f650335f3d8\\\",\\\"status.workspaceTrust.1625023667308\\\",\\\"status.workspaceTrust.f13bde25cc6b82e695aa0551d545b099\\\",\\\"status.workspaceTrust.1627630712879\\\",\\\"status.workspaceTrust.4bf2215e102e6c3deb33fd9e4df94a06\\\",\\\"status.workspaceTrust.1627630860722\\\",\\\"status.workspaceTrust.9e07a1316edd3dbfdc5696eb3c19432e\\\",\\\"status.workspaceTrust.1628070668254\\\",\\\"status.workspaceTrust.e2df83926ac2661471bec9a07ae63fd7\\\",\\\"status.workspaceTrust.1628351097112\\\",\\\"status.workspaceTrust.4179db1cb4a74805ee38eea6e34152fb\\\",\\\"status.workspaceTrust.1628351925008\\\",\\\"status.workspaceTrust.58cf19a8c21d655a23eff19fa4e727c9\\\",\\\"status.workspaceTrust.1628354191641\\\",\\\"status.workspaceTrust.e15669244276b145064b9ff9da917e66\\\",\\\"status.workspaceTrust.1628354821995\\\",\\\"status.workspaceTrust.0b81b674cfc5ba06ff2168bd8fcfda83\\\",\\\"status.workspaceTrust.c53e6cad93e574ad1240a5dbc2c78c7f\\\",\\\"status.workspaceTrust.038c7711d2b403188655bb0c3f7e8bf1\\\",\\\"status.workspaceTrust.1629708175189\\\",\\\"status.workspaceTrust.38c41c31c0fcbad73337f165cbdd7618\\\",\\\"status.workspaceTrust.1629710566773\\\",\\\"status.workspaceTrust.6398c8d1b54ff857c414dc5a9c51fb7c\\\",\\\"status.workspaceTrust.1629727596396\\\",\\\"status.workspaceTrust.1629783924744\\\",\\\"status.workspaceTrust.7b7974a6d49096a19e37d04acd656c1c\\\",\\\"status.workspaceTrust.1629828674904\\\",\\\"status.workspaceTrust.d9c5fa212aa8c9a760ac9246fbf63617\\\",\\\"status.workspaceTrust.1630071896968\\\",\\\"status.workspaceTrust.1630071956591\\\",\\\"status.workspaceTrust.1630072369667\\\",\\\"status.workspaceTrust.1630074286676\\\",\\\"status.workspaceTrust.1630077586067\\\",\\\"status.workspaceTrust.701216a9d8160051ce267577cb159613\\\",\\\"status.workspaceTrust.1630829443151\\\",\\\"status.workspaceTrust.308aa8d417f2eafeb39ec0718016fa38\\\",\\\"status.workspaceTrust.1631727120551\\\",\\\"status.workspaceTrust.c72ea1d96691a35944b5c1ffaf755d66\\\",\\\"status.workspaceTrust.97f9d7530cd4df50e7d9050547665346\\\",\\\"status.workspaceTrust.0f171533b4218731675915cd1762453b\\\",\\\"status.workspaceTrust.1631862536654\\\",\\\"status.workspaceTrust.1632745216499\\\",\\\"status.workspaceTrust.8fd06581413f00a75d604be7bbb02f5b\\\",\\\"status.workspaceTrust.1632746005653\\\",\\\"status.workspaceTrust.1632746488625\\\",\\\"status.workspaceTrust.1632748669866\\\",\\\"status.workspaceTrust.13c7ee9980e9f155296a9c327e575334\\\",\\\"status.workspaceTrust.1632749526554\\\",\\\"status.workspaceTrust.acaa122499171d3ffb71e1ca35f15592\\\",\\\"status.workspaceTrust.1632834720547\\\",\\\"status.workspaceTrust.e44e6e3eede72db0a3e086ffddc1c132\\\",\\\"status.workspaceTrust.1632840012523\\\",\\\"status.workspaceTrust.1632843208031\\\",\\\"status.workspaceTrust.1632847457772\\\",\\\"status.workspaceTrust.1632929222693\\\",\\\"status.workspaceTrust.09fe7f9d30e851a2e864f5dad3128fba\\\",\\\"status.workspaceTrust.1633019838970\\\",\\\"status.workspaceTrust.1633019838009\\\",\\\"status.workspaceTrust.f5bc85f76b898256731233ab6706ceac\\\",\\\"status.workspaceTrust.1633022757761\\\",\\\"status.workspaceTrust.f0d0b8e106e2e5ee774d24d1ec2a2406\\\",\\\"status.workspaceTrust.1633183152518\\\",\\\"status.workspaceTrust.1633880408915\\\",\\\"status.workspaceTrust.6e0ff44cf6344c9ee1cf5243b768691c\\\",\\\"status.workspaceTrust.1634042583751\\\",\\\"status.workspaceTrust.cce221927fc52dd7ab6636d7c5538e80\\\",\\\"status.workspaceTrust.1634122237761\\\",\\\"status.workspaceTrust.fad5194f184e78d6e1c1bab92b3e0897\\\",\\\"status.workspaceTrust.1634299306140\\\",\\\"status.workspaceTrust.1634531181631\\\",\\\"status.workspaceTrust.1634885252017\\\",\\\"status.workspaceTrust.3d01c08fd51c4de902cce4fbc0dd8ec0\\\",\\\"status.workspaceTrust.1634885970036\\\",\\\"status.workspaceTrust.3b902d611957e346db9bbbe870bd14c4\\\",\\\"status.workspaceTrust.1635058227114\\\",\\\"status.workspaceTrust.1635059009193\\\",\\\"status.workspaceTrust.8cbff8487b0c6d0e04748a813ca63de9\\\",\\\"status.workspaceTrust.1635268749129\\\",\\\"status.workspaceTrust.1635416501247\\\",\\\"status.workspaceTrust.1635570051732\\\",\\\"status.workspaceTrust.39882ef6da6a59c5d6dd58b5872d8baf\\\",\\\"status.workspaceTrust.1635591549722\\\",\\\"status.workspaceTrust.1635607869835\\\",\\\"status.workspaceTrust.1636292885470\\\",\\\"status.workspaceTrust.1636386905871\\\",\\\"status.workspaceTrust.1636875607814\\\",\\\"status.workspaceTrust.1636875606676\\\",\\\"status.workspaceTrust.1636901052515\\\",\\\"status.workspaceTrust.c3889a75c21be48d27292158ec59772d\\\",\\\"status.workspaceTrust.1636904798525\\\",\\\"status.workspaceTrust.1637855367614\\\",\\\"status.workspaceTrust.cfbd61a470b4d41b848b09ad8803915d\\\",\\\"status.workspaceTrust.1638083727687\\\",\\\"status.workspaceTrust.840f63ae762b3ff5c74f1cf4c30356d2\\\",\\\"status.workspaceTrust.1638105700424\\\",\\\"status.workspaceTrust.1638465131713\\\",\\\"status.workspaceTrust.7a17578500ec323e98dca758f516633f\\\",\\\"status.workspaceTrust.1638465200724\\\",\\\"status.workspaceTrust.6cccd553a2da62c020d00b46f31caa38\\\",\\\"status.workspaceTrust.1639384694735\\\",\\\"status.workspaceTrust.e5bada92b9de81b23a9d4d9066f86237\\\",\\\"status.workspaceTrust.1639638112282\\\",\\\"status.workspaceTrust.b2484bd7aace53110c536c19cedd9c2b\\\",\\\"status.workspaceTrust.1639890245673\\\",\\\"status.workspaceTrust.1639923764422\\\",\\\"status.workspaceTrust.1641308500901\\\",\\\"status.workspaceTrust.1641456063700\\\",\\\"status.workspaceTrust.99e1495530f693aed7b5b8a2639f6398\\\",\\\"status.workspaceTrust.1641458273645\\\",\\\"status.workspaceTrust.1641458275044\\\",\\\"status.workspaceTrust.0c00821ed834e6728e08fe5b87eacf47\\\",\\\"status.workspaceTrust.1641458957835\\\",\\\"status.workspaceTrust.b07ce82d39d75947c477eaf4e9990191\\\",\\\"status.workspaceTrust.1641475724835\\\",\\\"status.workspaceTrust.5825bb4c0b203580e5ac9d4e22af7d29\\\",\\\"status.workspaceTrust.1641812075929\\\",\\\"status.workspaceTrust.ff79cde49b4a0400fe9b01e28cdfd39c\\\",\\\"status.workspaceTrust.1641992626789\\\",\\\"status.workspaceTrust.1642066587697\\\",\\\"status.workspaceTrust.d6724b958934945fdde63bd737917eb4\\\",\\\"status.workspaceTrust.1642664848451\\\",\\\"status.workspaceTrust.4cebb859b5baeb7ca269deb76469150a\\\",\\\"status.workspaceTrust.1642940488453\\\",\\\"status.workspaceTrust.a5d51dc946b3e992420a3d55397e02bc\\\",\\\"status.workspaceTrust.1643203434695\\\",\\\"status.workspaceTrust.a73ca8379cb0662dbf0a09471434ba70\\\",\\\"status.workspaceTrust.1643957210960\\\",\\\"status.workspaceTrust.e07ad8d7da757399577589a928f0ff43\\\",\\\"status.workspaceTrust.1644042047067\\\",\\\"status.workspaceTrust.b6ce1d1fa40abcc0fbaaf81d8bff439a\\\",\\\"status.workspaceTrust.1644472281635\\\",\\\"status.workspaceTrust.0c721f4c9a87745de1b8cc44ab0921ea\\\",\\\"status.workspaceTrust.1645947409018\\\",\\\"status.workspaceTrust.7087ea6f635ea28bd223d7238cbca138\\\",\\\"status.workspaceTrust.1646583593359\\\",\\\"status.workspaceTrust.579e643568c50b41ea95cfdc1ad5d0df\\\",\\\"status.workspaceTrust.1646660161402\\\",\\\"status.workspaceTrust.3ef73bae97950b80b8bf6a19054b7460\\\",\\\"status.workspaceTrust.1646831472174\\\",\\\"status.workspaceTrust.14cd568895e04648496bb12537e15259\\\",\\\"status.workspaceTrust.1646833569868\\\",\\\"status.workspaceTrust.1647153608702\\\",\\\"status.workspaceTrust.0ad23ad30b8cbc15a7481b9ed283eeef\\\",\\\"status.workspaceTrust.1648277857755\\\",\\\"status.workspaceTrust.e1f2a840692ec6e14e5bb96a35883f5f\\\",\\\"status.workspaceTrust.1648305955274\\\",\\\"status.workspaceTrust.222b3bce68274814b0af256b696bdfe4\\\",\\\"status.workspaceTrust.1648468498085\\\",\\\"status.workspaceTrust.1648620277763\\\",\\\"status.workspaceTrust.eff30504b5c09ca4dcae9cd17ea3bd81\\\",\\\"status.workspaceTrust.1648737978171\\\",\\\"status.workspaceTrust.da0f11e494375cbf78fa7a841ed26003\\\",\\\"status.workspaceTrust.1649081774134\\\",\\\"status.workspaceTrust.1649134458063\\\",\\\"status.workspaceTrust.1650626245004\\\",\\\"status.workspaceTrust.2c6594e468a3b371664fe1178f1d4036\\\",\\\"status.workspaceTrust.1650627610558\\\",\\\"status.workspaceTrust.1651166421965\\\",\\\"status.workspaceTrust.d3ec896eafe99e4e50d6723f5dbbaddb\\\",\\\"status.workspaceTrust.1651472697322\\\",\\\"status.workspaceTrust.f766ec5e9e109cd97dd278355d813f61\\\",\\\"status.workspaceTrust.1652978753986\\\",\\\"status.workspaceTrust.508bdb8dfb73c318c2b56b6efd63482a\\\",\\\"status.workspaceTrust.1653218380782\\\",\\\"status.workspaceTrust.1653291767886\\\",\\\"status.workspaceTrust.7ef0d8e553ec7cdd369529f4109f2180\\\",\\\"status.workspaceTrust.1653291908903\\\",\\\"status.workspaceTrust.0c0f9538984a9c321f42fde3f28687e5\\\",\\\"status.workspaceTrust.1655629716244\\\",\\\"status.workspaceTrust.1655720784417\\\",\\\"status.workspaceTrust.b769c7e8e7d3b7ee491ac8563279a1fc\\\",\\\"status.workspaceTrust.2156c2405ac1b45379c4d3ec01931f12\\\",\\\"status.workspaceTrust.1662190088363\\\",\\\"status.workspaceTrust.247172087045bdcc73f9cbdb79e363b2\\\",\\\"status.workspaceTrust.1663394077354\\\",\\\"status.workspaceTrust.cfc2ba59160731d3237b4feb9a36816d\\\",\\\"status.workspaceTrust.1663394679861\\\",\\\"status.workspaceTrust.1663417619770\\\",\\\"status.workspaceTrust.1663945725778\\\",\\\"status.workspaceTrust.27b76b30810ff37d5003917fb086993a\\\",\\\"status.workspaceTrust.1664982291372\\\",\\\"status.workspaceTrust.42a7f31afa12a584160fb6b892ebe368\\\",\\\"status.workspaceTrust.1664992407633\\\",\\\"status.workspaceTrust.1664993523751\\\",\\\"status.workspaceTrust.3c067a58828abb67cc6da9ddee9e31c4\\\",\\\"status.workspaceTrust.1666186405966\\\",\\\"status.workspaceTrust.bdece9a7cf5d0acd7989aa6eeef6f37a\\\",\\\"status.workspaceTrust.f2a5e739a99719505b4d81684b2ff631\\\",\\\"status.workspaceTrust.1667918821237\\\",\\\"status.workspaceTrust.4d97980b0ac5e2bb2569675eaa02dfd2\\\",\\\"status.workspaceTrust.1668267623269\\\",\\\"status.workspaceTrust.577937299f8c183116601bd857efe22e\\\",\\\"status.workspaceTrust.1668697895220\\\",\\\"status.workspaceTrust.5aebdf2b8376b582bd2a49c7cd7faa39\\\",\\\"status.workspaceTrust.1668702232087\\\",\\\"status.workspaceTrust.e8cfb7bb76e5ba68c2eaed9b8005ce31\\\",\\\"status.workspaceTrust.1668703080147\\\",\\\"status.workspaceTrust.1668709930916\\\",\\\"status.workspaceTrust.160f66a6f7484242d573d0b81f639430\\\",\\\"status.workspaceTrust.1671876821258\\\",\\\"status.workspaceTrust.dd179085eaade5565e12a7114b26f284\\\",\\\"status.workspaceTrust.1672143106738\\\",\\\"status.workspaceTrust.31e72db456fcfd78bf92278358e6c7d5\\\",\\\"status.workspaceTrust.1672493882225\\\",\\\"status.workspaceTrust.44e89f5891c26d1281962d0f212f9b6f\\\",\\\"status.workspaceTrust.1672844740135\\\",\\\"status.workspaceTrust.660fbb4f2c698df2e7b51604eedf7c72\\\",\\\"status.workspaceTrust.1672849653980\\\",\\\"status.workspaceTrust.e01ecf0367964079dd85f7ada149f4be\\\",\\\"status.workspaceTrust.1673189446481\\\",\\\"status.workspaceTrust.4fa85981d568d647ae08a1d9f79662d1\\\",\\\"status.workspaceTrust.1673935763419\\\",\\\"status.workspaceTrust.6e310b04c231454dc75e3126923146a8\\\",\\\"status.workspaceTrust.1673935949915\\\",\\\"status.workspaceTrust.30fff5d85e03a67660b116370d2f7592\\\",\\\"status.workspaceTrust.8438fee5362f791e3307cd05b3d1a287\\\",\\\"status.workspaceTrust.8871e1d47d4006279f4c9148979424ef\\\",\\\"status.workspaceTrust.1674740733435\\\",\\\"status.workspaceTrust.bd5407246f785ca15a9eb7ef1008c7c2\\\",\\\"status.workspaceTrust.f1fc097f3d0f30e985a19a6447aaa86e\\\",\\\"status.workspaceTrust.1674742225691\\\",\\\"status.workspaceTrust.1675256350743\\\",\\\"status.workspaceTrust.9b5ef0a9ce6c2be4c4168d4e0356e628\\\",\\\"status.workspaceTrust.1675256703197\\\",\\\"status.workspaceTrust.1efbbb1455a45b17602ac902727e75b8\\\",\\\"status.workspaceTrust.1675262245140\\\",\\\"status.workspaceTrust.1675262354532\\\",\\\"status.workspaceTrust.1675262361895\\\",\\\"status.workspaceTrust.bc40fa2999c8b5cd5f96876a2b4aa1aa\\\",\\\"status.host\\\",\\\"status.workspaceTrust.1677586993372\\\",\\\"status.workspaceTrust.1348eaa5cacf96f59edb083b8190daa1\\\",\\\"status.workspaceTrust.1679324035805\\\",\\\"status.workspaceTrust.9cc0ca275653b6641679f835548bd839\\\",\\\"status.workspaceTrust.1679324409678\\\",\\\"status.workspaceTrust.7edea7b79e5bae07c7cbdf8fd58ad95e\\\",\\\"status.workspaceTrust.1679491775958\\\",\\\"status.workspaceTrust.1679673098467\\\",\\\"status.workspaceTrust.1679673470150\\\",\\\"status.workspaceTrust.1680673896089\\\",\\\"status.workspaceTrust.1680801648558\\\",\\\"status.workspaceTrust.1680801724557\\\",\\\"status.workspaceTrust.1680801751987\\\",\\\"status.workspaceTrust.1680801811158\\\",\\\"status.workspaceTrust.1680851603437\\\",\\\"status.workspaceTrust.1680859404980\\\",\\\"status.workspaceTrust.1680859448324\\\",\\\"status.workspaceTrust.1680861147728\\\",\\\"status.workspaceTrust.1680959758794\\\"]\",\"colorThemeData\":\"{\\\"id\\\":\\\"vs-dark Equinusocio-vsc-community-material-theme-themes-Community-Material-Theme-Palenight-High-Contrast-json\\\",\\\"label\\\":\\\"Community Material Theme Palenight High Contrast\\\",\\\"settingsId\\\":\\\"Community Material Theme Palenight High Contrast\\\",\\\"themeTokenColors\\\":[{\\\"settings\\\":{\\\"background\\\":\\\"#292D3E\\\",\\\"foreground\\\":\\\"#ffffff\\\"}},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#676E95\\\"},\\\"scope\\\":[\\\"comment\\\",\\\"punctuation.definition.comment\\\",\\\"string.quoted.docstring\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#A6ACCD\\\"},\\\"scope\\\":[\\\"variable\\\",\\\"string constant.other.placeholder\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FFCB6B\\\"},\\\"scope\\\":[\\\"constant.other.php\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#ffffff\\\"},\\\"scope\\\":[\\\"constant.other.color\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"invalid\\\",\\\"invalid.illegal\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"invalid.deprecated\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"keyword\\\",\\\"storage.type\\\",\\\"storage.modifier\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\"},\\\"scope\\\":[\\\"Keyword\\\",\\\"Storage\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#89DDFF\\\"},\\\"scope\\\":[\\\"keyword.control\\\",\\\"constant.other.color\\\",\\\"punctuation.definition.tag\\\",\\\"punctuation\\\",\\\"punctuation.separator.inheritance.php\\\",\\\"punctuation.definition.tag.html\\\",\\\"punctuation.definition.tag.begin.html\\\",\\\"punctuation.definition.tag.end.html\\\",\\\"punctuation.section.embedded\\\",\\\"keyword.other.template\\\",\\\"keyword.other.substitution\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\"},\\\"scope\\\":[\\\"keyword.control\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"entity.name.tag\\\",\\\"meta.tag.sgml\\\",\\\"markup.deleted.git_gutter\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"entity.name.function\\\",\\\"variable.function\\\",\\\"support.function\\\",\\\"keyword.other.special-method\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"source.cpp meta.block variable.other\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"variable.other.constant\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"support.other.variable\\\",\\\"string.other.link\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#F78C6C\\\"},\\\"scope\\\":[\\\"constant.numeric\\\",\\\"constant.language\\\",\\\"support.constant\\\",\\\"constant.character\\\",\\\"constant.escape\\\",\\\"keyword.other.unit\\\",\\\"keyword.other\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"variable.parameter.function.language.special\\\",\\\"variable.parameter\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"normal\\\",\\\"foreground\\\":\\\"#C3E88D\\\"},\\\"scope\\\":[\\\"string\\\",\\\"constant.other.symbol\\\",\\\"constant.other.key\\\",\\\"entity.other.inherited-class\\\",\\\"markup.heading\\\",\\\"markup.inserted.git_gutter\\\",\\\"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FFCB6B\\\"},\\\"scope\\\":[\\\"entity.name\\\",\\\"support.type\\\",\\\"support.class\\\",\\\"support.orther.namespace.use.php\\\",\\\"meta.use.php\\\",\\\"support.other.namespace.php\\\",\\\"markup.changed.git_gutter\\\",\\\"support.type.sys-types\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#B2CCD6\\\"},\\\"scope\\\":[\\\"support.type\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#B2CCD6\\\"},\\\"scope\\\":[\\\"source.css support.type.property-name\\\",\\\"source.sass support.type.property-name\\\",\\\"source.scss support.type.property-name\\\",\\\"source.less support.type.property-name\\\",\\\"source.stylus support.type.property-name\\\",\\\"source.postcss support.type.property-name\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"entity.name.module.js\\\",\\\"variable.import.parameter.js\\\",\\\"variable.other.class.js\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"variable.language\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"entity.name.method.js\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"meta.class-method.js entity.name.function.js\\\",\\\"variable.function.constructor\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"entity.other.attribute-name\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FFCB6B\\\"},\\\"scope\\\":[\\\"entity.other.attribute-name.class\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"source.sass keyword.control\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C3E88D\\\"},\\\"scope\\\":[\\\"markup.inserted\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"markup.deleted\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"markup.changed\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#89DDFF\\\"},\\\"scope\\\":[\\\"string.regexp\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#89DDFF\\\"},\\\"scope\\\":[\\\"constant.character.escape\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"underline\\\"},\\\"scope\\\":[\\\"*url*\\\",\\\"*link*\\\",\\\"*uri*\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"tag.decorator.js entity.name.tag.js\\\",\\\"tag.decorator.js punctuation.definition.tag.js\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"source.js constant.other.object.key.js string.unquoted.label.js\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FFCB6B\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#F78C6C\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FF5370\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C17E70\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C3E88D\\\"},\\\"scope\\\":[\\\"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#A6ACCD\\\"},\\\"scope\\\":[\\\"text.html.markdown\\\",\\\"punctuation.definition.list_item.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"text.html.markdown markup.inline.raw.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#4E5579\\\"},\\\"scope\\\":[\\\"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"\\\"},\\\"scope\\\":[\\\"text.html.markdown meta.dummy.line-break\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C3E88D\\\"},\\\"scope\\\":[\\\"markdown.heading\\\",\\\"markup.heading | markup.heading entity.name\\\",\\\"markup.heading.markdown punctuation.definition.heading.markdown\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"markup.italic\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"markup.bold\\\",\\\"markup.bold string\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#f07178\\\"},\\\"scope\\\":[\\\"markup.bold markup.italic\\\",\\\"markup.italic markup.bold\\\",\\\"markup.quote markup.bold\\\",\\\"markup.bold markup.italic string\\\",\\\"markup.italic markup.bold string\\\",\\\"markup.quote markup.bold string\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"underline\\\",\\\"foreground\\\":\\\"#F78C6C\\\"},\\\"scope\\\":[\\\"markup.underline\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"strike\\\",\\\"foreground\\\":\\\"\\\"},\\\"scope\\\":[\\\"markup.strike\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#4E5579\\\"},\\\"scope\\\":[\\\"markup.quote punctuation.definition.blockquote.markdown\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"italic\\\",\\\"foreground\\\":\\\"\\\"},\\\"scope\\\":[\\\"markup.quote\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#82AAFF\\\"},\\\"scope\\\":[\\\"string.other.link.title.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"string.other.link.description.title.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#FFCB6B\\\"},\\\"scope\\\":[\\\"constant.other.reference.link.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#C792EA\\\"},\\\"scope\\\":[\\\"markup.raw.block\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#A6ACCD90\\\"},\\\"scope\\\":[\\\"markup.fenced_code.block.markdown\\\",\\\"markup.inline.raw.string.markdown\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#4E5579\\\"},\\\"scope\\\":[\\\"variable.language.fenced.markdown\\\"]},{\\\"settings\\\":{\\\"fontStyle\\\":\\\"bold\\\",\\\"foreground\\\":\\\"#4E5579\\\"},\\\"scope\\\":[\\\"meta.separator\\\"]},{\\\"settings\\\":{\\\"foreground\\\":\\\"#A6ACCD\\\"},\\\"scope\\\":[\\\"markup.table\\\"]}],\\\"semanticTokenRules\\\":[],\\\"extensionData\\\":{\\\"_extensionId\\\":\\\"Equinusocio.vsc-community-material-theme\\\",\\\"_extensionIsBuiltin\\\":false,\\\"_extensionName\\\":\\\"vsc-community-material-theme\\\",\\\"_extensionPublisher\\\":\\\"Equinusocio\\\"},\\\"colorMap\\\":{\\\"focusBorder\\\":\\\"#ffffff00\\\",\\\"editorCursor.foreground\\\":\\\"#ffcc00\\\",\\\"editorRuler.foreground\\\":\\\"#4e5579\\\",\\\"scrollbar.shadow\\\":\\\"#292d3e00\\\",\\\"editorLink.activeForeground\\\":\\\"#a6accd\\\",\\\"selection.background\\\":\\\"#80cbc4\\\",\\\"progressBar.background\\\":\\\"#80cbc4\\\",\\\"textLink.foreground\\\":\\\"#80cbc4\\\",\\\"textLink.activeForeground\\\":\\\"#a6accd\\\",\\\"widget.shadow\\\":\\\"#00000030\\\",\\\"button.background\\\":\\\"#717cb450\\\",\\\"debugToolBar.background\\\":\\\"#292d3e\\\",\\\"pickerGroup.foreground\\\":\\\"#80cbc4\\\",\\\"inputOption.activeBackground\\\":\\\"#a6accd30\\\",\\\"inputOption.activeBorder\\\":\\\"#a6accd30\\\",\\\"editorLineNumber.foreground\\\":\\\"#3a3f58\\\",\\\"editorLineNumber.activeForeground\\\":\\\"#757ca1\\\",\\\"editorBracketMatch.border\\\":\\\"#ffcc0050\\\",\\\"editorBracketMatch.background\\\":\\\"#292d3e\\\",\\\"editorWhitespace.foreground\\\":\\\"#a6accd40\\\",\\\"editorOverviewRuler.findMatchForeground\\\":\\\"#80cbc4\\\",\\\"editorOverviewRuler.border\\\":\\\"#292d3e\\\",\\\"editorOverviewRuler.errorForeground\\\":\\\"#ff537040\\\",\\\"editorOverviewRuler.infoForeground\\\":\\\"#82aaff40\\\",\\\"editorOverviewRuler.warningForeground\\\":\\\"#ffcb6b40\\\",\\\"editorInfo.foreground\\\":\\\"#82aaff70\\\",\\\"editorWarning.foreground\\\":\\\"#ffcb6b70\\\",\\\"editorError.foreground\\\":\\\"#ff537070\\\",\\\"editorHoverWidget.background\\\":\\\"#292d3e\\\",\\\"editorHoverWidget.border\\\":\\\"#ffffff10\\\",\\\"editorIndentGuide.background\\\":\\\"#4e557970\\\",\\\"editorIndentGuide.activeBackground\\\":\\\"#4e5579\\\",\\\"editorGroupHeader.tabsBackground\\\":\\\"#292d3e\\\",\\\"editorGroup.border\\\":\\\"#00000030\\\",\\\"editorGutter.modifiedBackground\\\":\\\"#82aaff60\\\",\\\"editorGutter.addedBackground\\\":\\\"#c3e88d60\\\",\\\"editorGutter.deletedBackground\\\":\\\"#ff537060\\\",\\\"editor.background\\\":\\\"#292d3e\\\",\\\"editor.foreground\\\":\\\"#a6accd\\\",\\\"editor.lineHighlightBackground\\\":\\\"#00000050\\\",\\\"editor.selectionBackground\\\":\\\"#717cb450\\\",\\\"editor.selectionHighlightBackground\\\":\\\"#ffcc0020\\\",\\\"editor.findMatchBackground\\\":\\\"#000000\\\",\\\"editor.findMatchHighlightBackground\\\":\\\"#00000050\\\",\\\"editor.findMatchBorder\\\":\\\"#80cbc4\\\",\\\"editor.findMatchHighlightBorder\\\":\\\"#ffffff50\\\",\\\"tab.activeBorder\\\":\\\"#80cbc4\\\",\\\"tab.activeModifiedBorder\\\":\\\"#757ca1\\\",\\\"tab.unfocusedActiveBorder\\\":\\\"#676e95\\\",\\\"tab.activeForeground\\\":\\\"#ffffff\\\",\\\"tab.inactiveForeground\\\":\\\"#757ca1\\\",\\\"tab.inactiveBackground\\\":\\\"#292d3e\\\",\\\"tab.unfocusedActiveForeground\\\":\\\"#a6accd\\\",\\\"tab.border\\\":\\\"#292d3e\\\",\\\"statusBar.noFolderBackground\\\":\\\"#292d3e\\\",\\\"statusBar.border\\\":\\\"#00000060\\\",\\\"statusBar.background\\\":\\\"#1b1e2b\\\",\\\"statusBar.foreground\\\":\\\"#676e95\\\",\\\"statusBar.debuggingBackground\\\":\\\"#c792ea\\\",\\\"statusBar.debuggingForeground\\\":\\\"#ffffff\\\",\\\"statusBarItem.hoverBackground\\\":\\\"#676e9520\\\",\\\"statusBarItem.remoteForeground\\\":\\\"#000000\\\",\\\"statusBarItem.remoteBackground\\\":\\\"#80cbc4\\\",\\\"activityBar.background\\\":\\\"#1b1e2b\\\",\\\"activityBar.border\\\":\\\"#00000060\\\",\\\"activityBar.foreground\\\":\\\"#a6accd\\\",\\\"activityBarBadge.background\\\":\\\"#80cbc4\\\",\\\"activityBarBadge.foreground\\\":\\\"#000000\\\",\\\"titleBar.activeBackground\\\":\\\"#1b1e2b\\\",\\\"titleBar.activeForeground\\\":\\\"#a6accd\\\",\\\"titleBar.inactiveBackground\\\":\\\"#1b1e2b\\\",\\\"titleBar.inactiveForeground\\\":\\\"#757ca1\\\",\\\"titleBar.border\\\":\\\"#00000060\\\",\\\"sideBar.background\\\":\\\"#1b1e2b\\\",\\\"sideBar.foreground\\\":\\\"#757ca1\\\",\\\"sideBar.border\\\":\\\"#00000060\\\",\\\"sideBarTitle.foreground\\\":\\\"#a6accd\\\",\\\"sideBarSectionHeader.background\\\":\\\"#1b1e2b\\\",\\\"sideBarSectionHeader.border\\\":\\\"#00000060\\\",\\\"input.background\\\":\\\"#333747\\\",\\\"input.foreground\\\":\\\"#eeffff\\\",\\\"input.placeholderForeground\\\":\\\"#a6accd60\\\",\\\"input.border\\\":\\\"#ffffff10\\\",\\\"inputValidation.errorBorder\\\":\\\"#ff537050\\\",\\\"inputValidation.infoBorder\\\":\\\"#82aaff50\\\",\\\"inputValidation.warningBorder\\\":\\\"#ffcb6b50\\\",\\\"dropdown.background\\\":\\\"#292d3e\\\",\\\"dropdown.border\\\":\\\"#ffffff10\\\",\\\"list.hoverForeground\\\":\\\"#ffffff\\\",\\\"list.hoverBackground\\\":\\\"#1b1e2b\\\",\\\"list.activeSelectionBackground\\\":\\\"#1b1e2b\\\",\\\"list.activeSelectionForeground\\\":\\\"#80cbc4\\\",\\\"list.inactiveSelectionForeground\\\":\\\"#80cbc4\\\",\\\"list.inactiveSelectionBackground\\\":\\\"#00000030\\\",\\\"list.focusBackground\\\":\\\"#a6accd20\\\",\\\"list.focusForeground\\\":\\\"#a6accd\\\",\\\"list.highlightForeground\\\":\\\"#80cbc4\\\",\\\"terminal.ansiWhite\\\":\\\"#ffffff\\\",\\\"terminal.ansiBlack\\\":\\\"#000000\\\",\\\"terminal.ansiBlue\\\":\\\"#82aaff\\\",\\\"terminal.ansiCyan\\\":\\\"#89ddff\\\",\\\"terminal.ansiGreen\\\":\\\"#c3e88d\\\",\\\"terminal.ansiMagenta\\\":\\\"#c792ea\\\",\\\"terminal.ansiRed\\\":\\\"#ff5370\\\",\\\"terminal.ansiYellow\\\":\\\"#ffcb6b\\\",\\\"terminal.ansiBrightWhite\\\":\\\"#ffffff\\\",\\\"terminal.ansiBrightBlack\\\":\\\"#676e95\\\",\\\"terminal.ansiBrightBlue\\\":\\\"#82aaff\\\",\\\"terminal.ansiBrightCyan\\\":\\\"#89ddff\\\",\\\"terminal.ansiBrightGreen\\\":\\\"#c3e88d\\\",\\\"terminal.ansiBrightMagenta\\\":\\\"#c792ea\\\",\\\"terminal.ansiBrightRed\\\":\\\"#ff5370\\\",\\\"terminal.ansiBrightYellow\\\":\\\"#ffcb6b\\\",\\\"terminalCursor.foreground\\\":\\\"#ffcb6b\\\",\\\"terminalCursor.background\\\":\\\"#000000\\\",\\\"scrollbarSlider.background\\\":\\\"#a6accd20\\\",\\\"scrollbarSlider.hoverBackground\\\":\\\"#a6accd10\\\",\\\"scrollbarSlider.activeBackground\\\":\\\"#80cbc4\\\",\\\"editorSuggestWidget.background\\\":\\\"#292d3e\\\",\\\"editorSuggestWidget.foreground\\\":\\\"#a6accd\\\",\\\"editorSuggestWidget.highlightForeground\\\":\\\"#80cbc4\\\",\\\"editorSuggestWidget.selectedBackground\\\":\\\"#00000050\\\",\\\"editorSuggestWidget.border\\\":\\\"#ffffff10\\\",\\\"editorWidget.background\\\":\\\"#1b1e2b\\\",\\\"editorWidget.resizeBorder\\\":\\\"#80cbc4\\\",\\\"editorWidget.border\\\":\\\"#ff0000\\\",\\\"editorMarkerNavigation.background\\\":\\\"#a6accd05\\\",\\\"panel.border\\\":\\\"#00000060\\\",\\\"panel.background\\\":\\\"#1b1e2b\\\",\\\"panel.dropBackground\\\":\\\"#a6accd\\\",\\\"panelTitle.inactiveForeground\\\":\\\"#a6accd\\\",\\\"panelTitle.activeForeground\\\":\\\"#ffffff\\\",\\\"panelTitle.activeBorder\\\":\\\"#80cbc4\\\",\\\"diffEditor.insertedTextBackground\\\":\\\"#c3e88d15\\\",\\\"diffEditor.removedTextBackground\\\":\\\"#ff537020\\\",\\\"notifications.background\\\":\\\"#292d3e\\\",\\\"notifications.foreground\\\":\\\"#a6accd\\\",\\\"notificationLink.foreground\\\":\\\"#80cbc4\\\",\\\"badge.background\\\":\\\"#00000030\\\",\\\"badge.foreground\\\":\\\"#676e95\\\",\\\"extensionButton.prominentBackground\\\":\\\"#c3e88d90\\\",\\\"extensionButton.prominentHoverBackground\\\":\\\"#c3e88d\\\",\\\"peekView.border\\\":\\\"#00000030\\\",\\\"peekViewEditor.background\\\":\\\"#a6accd05\\\",\\\"peekViewTitle.background\\\":\\\"#a6accd05\\\",\\\"peekViewResult.background\\\":\\\"#a6accd05\\\",\\\"peekViewEditorGutter.background\\\":\\\"#a6accd05\\\",\\\"peekViewTitleDescription.foreground\\\":\\\"#a6accd60\\\",\\\"peekViewResult.matchHighlightBackground\\\":\\\"#717cb450\\\",\\\"peekViewEditor.matchHighlightBackground\\\":\\\"#717cb450\\\",\\\"gitDecoration.deletedResourceForeground\\\":\\\"#ff537090\\\",\\\"gitDecoration.conflictingResourceForeground\\\":\\\"#ffcb6b90\\\",\\\"gitDecoration.modifiedResourceForeground\\\":\\\"#82aaff90\\\",\\\"gitDecoration.untrackedResourceForeground\\\":\\\"#c3e88d90\\\",\\\"gitDecoration.ignoredResourceForeground\\\":\\\"#757ca190\\\",\\\"peekViewResult.selectionBackground\\\":\\\"#757ca170\\\",\\\"breadcrumb.background\\\":\\\"#292d3e\\\",\\\"breadcrumb.foreground\\\":\\\"#757ca1\\\",\\\"breadcrumb.focusForeground\\\":\\\"#a6accd\\\",\\\"breadcrumb.activeSelectionForeground\\\":\\\"#80cbc4\\\",\\\"breadcrumbPicker.background\\\":\\\"#1b1e2b\\\",\\\"menu.background\\\":\\\"#292d3e\\\",\\\"menu.foreground\\\":\\\"#a6accd\\\",\\\"menu.selectionBackground\\\":\\\"#00000050\\\",\\\"menu.selectionForeground\\\":\\\"#80cbc4\\\",\\\"menu.selectionBorder\\\":\\\"#00000030\\\",\\\"menu.separatorBackground\\\":\\\"#a6accd\\\",\\\"menubar.selectionBackground\\\":\\\"#00000030\\\",\\\"menubar.selectionForeground\\\":\\\"#80cbc4\\\",\\\"menubar.selectionBorder\\\":\\\"#00000030\\\",\\\"settings.dropdownForeground\\\":\\\"#a6accd\\\",\\\"settings.dropdownBackground\\\":\\\"#1b1e2b\\\",\\\"settings.numberInputForeground\\\":\\\"#a6accd\\\",\\\"settings.numberInputBackground\\\":\\\"#1b1e2b\\\",\\\"settings.textInputForeground\\\":\\\"#a6accd\\\",\\\"settings.textInputBackground\\\":\\\"#1b1e2b\\\",\\\"settings.headerForeground\\\":\\\"#80cbc4\\\",\\\"settings.modifiedItemIndicator\\\":\\\"#80cbc4\\\",\\\"settings.checkboxBackground\\\":\\\"#1b1e2b\\\",\\\"settings.checkboxForeground\\\":\\\"#a6accd\\\",\\\"listFilterWidget.background\\\":\\\"#00000030\\\",\\\"listFilterWidget.outline\\\":\\\"#00000030\\\",\\\"listFilterWidget.noMatchesOutline\\\":\\\"#00000030\\\",\\\"debugConsole.infoForeground\\\":\\\"#000000\\\",\\\"debugConsole.warningForeground\\\":\\\"#ffad33\\\",\\\"debugConsole.errorForeground\\\":\\\"#ff4000\\\",\\\"tree.indentGuidesStroke\\\":\\\"#4e5579\\\"},\\\"watch\\\":false}\",\"workbench.panel.repl.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.repl.view\\\",\\\"isHidden\\\":false}]\",\"workbench.panel.pinnedPanels\":\"[{\\\"id\\\":\\\"workbench.panel.markers\\\",\\\"name\\\":\\\"Problems\\\",\\\"pinned\\\":true,\\\"order\\\":0,\\\"visible\\\":true},{\\\"id\\\":\\\"workbench.panel.output\\\",\\\"name\\\":\\\"Output\\\",\\\"pinned\\\":true,\\\"order\\\":1,\\\"visible\\\":true},{\\\"id\\\":\\\"workbench.panel.repl\\\",\\\"name\\\":\\\"Debug Console\\\",\\\"pinned\\\":true,\\\"order\\\":2,\\\"visible\\\":true},{\\\"id\\\":\\\"workbench.panel.testResults\\\",\\\"name\\\":\\\"Test Results\\\",\\\"pinned\\\":true,\\\"order\\\":3,\\\"visible\\\":false},{\\\"id\\\":\\\"terminal\\\",\\\"name\\\":\\\"Terminal\\\",\\\"pinned\\\":true,\\\"order\\\":3,\\\"visible\\\":true},{\\\"id\\\":\\\"workbench.view.extension.gitlensPanel\\\",\\\"name\\\":\\\"GitLens\\\",\\\"pinned\\\":true,\\\"order\\\":6,\\\"visible\\\":true},{\\\"id\\\":\\\"workbench.panel.comments\\\",\\\"name\\\":\\\"Comments\\\",\\\"pinned\\\":true,\\\"order\\\":10,\\\"visible\\\":true},{\\\"id\\\":\\\"refactorPreview\\\",\\\"name\\\":\\\"Refactor Preview\\\",\\\"pinned\\\":true,\\\"visible\\\":false}]\",\"memento/gettingStartedService\":\"{\\\"installGit\\\":{\\\"done\\\":true},\\\"quickOpen\\\":{\\\"done\\\":true},\\\"quickOpenWeb\\\":{\\\"done\\\":true},\\\"pickColorTheme\\\":{\\\"done\\\":true},\\\"pickColorThemeWeb\\\":{\\\"done\\\":true},\\\"vscjava.vscode-java-pack#javaWelcome#java.showProjectExplorer.inactive\\\":{\\\"done\\\":true},\\\"settingsSync\\\":{\\\"done\\\":true},\\\"settingsSyncWeb\\\":{\\\"done\\\":true},\\\"terminal\\\":{\\\"done\\\":true},\\\"pickAFolderTask-Other\\\":{\\\"done\\\":true},\\\"ms-python.python#pythonDataScienceWelcome#python.createNewNotebook\\\":{\\\"done\\\":true},\\\"commandPaletteTask\\\":{\\\"done\\\":true},\\\"commandPaletteTaskWeb\\\":{\\\"done\\\":true},\\\"settings\\\":{\\\"done\\\":true},\\\"shortcuts\\\":{\\\"done\\\":true},\\\"splitview\\\":{\\\"done\\\":true}}\",\"recently.opened\":\"{\\\"entries\\\":[{\\\"workspace\\\":{\\\"id\\\":\\\"62b4b9b7\\\",\\\"configPath\\\":\\\"vsls:/Live%20Share.code-workspace?sessionId%3D83D6E5F6AC90FAC7E091B2890420E600F3CF\\\"}},{\\\"workspace\\\":{\\\"id\\\":\\\"1f890d0f\\\",\\\"configPath\\\":\\\"vsls:/Live%20Share.code-workspace?sessionId%3D049DE80CF57BA74BA8A1A0044988153ECD83\\\"}},{\\\"workspace\\\":{\\\"id\\\":\\\"-178e8427\\\",\\\"configPath\\\":\\\"vsls:/Live%20Share.code-workspace?sessionId%3DF13771D4DC167AC1A63D457CF60A718C32AB\\\"}},{\\\"workspace\\\":{\\\"id\\\":\\\"-7c05373d\\\",\\\"configPath\\\":\\\"vsls:/Live%20Share.code-workspace?sessionId%3DC5B3EA2835482021765255539ECFF0638E3F\\\"}},{\\\"workspace\\\":{\\\"id\\\":\\\"-6b7451e8\\\",\\\"configPath\\\":\\\"vsls:/Live%20Share.code-workspace?sessionId%3D8A1EC4BBE079A55897A469070790501C184B\\\"}}]}\",\"workbench.view.remote.state.hidden\":\"[{\\\"id\\\":\\\"remoteHub.views.workspaceRepositories\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"github.codespaces.explorer\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"github.codespaces.performanceExplorer\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"~remote.helpPanel\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"remoteTargets\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"github.codespaces.warnExplorer\\\",\\\"isHidden\\\":true}]\",\"workbench.view.extension.liveshare.state.hidden\":\"[{\\\"id\\\":\\\"liveshare.session\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"liveshare.contacts\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"liveshare.plannedSessions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"liveshare.help\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"liveshare.devtools\\\",\\\"isHidden\\\":false}]\",\"Comments.hidden\":\"[{\\\"id\\\":\\\"workbench.panel.comments\\\",\\\"isHidden\\\":false}]\",\"workbench.view.extensions.state.hidden\":\"[{\\\"id\\\":\\\"workbench.views.extensions.installed\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.workspaceRecommendations\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.popular\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.otherRecommendations\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"extensions.recommendedList\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.enabled\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.views.extensions.disabled\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.views.extensions.marketplace\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchInstalled\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchEnabled\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchDisabled\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchOutdated\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchBuiltin\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchWorkspaceUnsupported\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.builtinFeatureExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.builtinThemeExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.builtinProgrammingLanguageExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.untrustedUnsupportedExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.untrustedPartiallySupportedExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.virtualUnsupportedExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.virtualPartiallySupportedExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.deprecatedExtensions\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.extensions.searchRecentlyUpdated\\\",\\\"isHidden\\\":false}]\",\"remote.explorerType\":\"codespaces\",\"terminal.integrated.showTerminalConfigPrompt\":\"false\",\"cpp.1.lastSessionDate\":\"Sat Apr 08 2023\",\"cpp.1.sessionCount\":\"525\",\"java.2.lastSessionDate\":\"Sat Apr 08 2023\",\"java.2.sessionCount\":\"525\",\"typescript.1.lastSessionDate\":\"Mon Jun 21 2021\",\"typescript.1.sessionCount\":\"239\",\"typescript.1.editedCount\":\"10\",\"typescript.1.editedDate\":\"Fri Jun 18 2021\",\"expandSuggestionDocs\":\"false\",\"fileBasedRecommendations/promptedFileExtensions\":\"[\\\"sol\\\"]\",\"ces/skipSurvey\":\"1.55.0\",\"extensionsAssistant/fileExtensionsSuggestionIgnore\":\"[\\\"ks\\\",\\\"prisma\\\",\\\"service\\\"]\",\"workbench.view.extension.bookmarks.state.hidden\":\"[{\\\"id\\\":\\\"bookmarksExplorer\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"bookmarksHelpAndFeedback\\\",\\\"isHidden\\\":false}]\",\"workbench.view.extension.github-pull-requests.state.hidden\":\"[{\\\"id\\\":\\\"github:login\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"pr:github\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"issues:github\\\",\\\"isHidden\\\":false}]\",\"workbench.view.extension.github-pull-request.state.hidden\":\"[{\\\"id\\\":\\\"github:createPullRequest\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"github:compareChanges\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"prStatus:github\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"github:activePullRequest\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"github:activePullRequest:welcome\\\",\\\"isHidden\\\":false}]\",\"workbench.view.extension.gitlens.state.hidden\":\"[{\\\"id\\\":\\\"gitlens.views.updates\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.welcome\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.home\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.contributors\\\",\\\"isHidden\\\":false}]\",\"extensionTips/promptedExecutableTips\":\"{\\\"wsl\\\":[\\\"ms-vscode-remote.remote-wsl\\\"],\\\"docker\\\":[\\\"ms-azuretools.vscode-docker\\\",\\\"ms-vscode-remote.remote-containers\\\"]}\",\"commandPalette.mru.cache\":\"{\\\"usesLRU\\\":true,\\\"entries\\\":[{\\\"key\\\":\\\"dart.createProject\\\",\\\"value\\\":1},{\\\"key\\\":\\\"workbench.extensions.action.disableAll\\\",\\\"value\\\":5},{\\\"key\\\":\\\"editor.action.commentLine\\\",\\\"value\\\":6},{\\\"key\\\":\\\"editor.emmet.action.matchTag\\\",\\\"value\\\":27},{\\\"key\\\":\\\"git.push\\\",\\\"value\\\":28},{\\\"key\\\":\\\"editor.emmet.action.decrementNumberByOneTenth\\\",\\\"value\\\":32},{\\\"key\\\":\\\"workbench.files.action.compareWithSaved\\\",\\\"value\\\":33},{\\\"key\\\":\\\"merge-conflict.accept.all-incoming\\\",\\\"value\\\":34},{\\\"key\\\":\\\"merge-conflict.accept.all-current\\\",\\\"value\\\":35},{\\\"key\\\":\\\"git.merge\\\",\\\"value\\\":36},{\\\"key\\\":\\\"eslint.restart\\\",\\\"value\\\":38},{\\\"key\\\":\\\"extension.vscode-counter.countInDirectory\\\",\\\"value\\\":42},{\\\"key\\\":\\\"extension.vscode-counter.countInWorkspace\\\",\\\"value\\\":45},{\\\"key\\\":\\\"sort-imports.sort\\\",\\\"value\\\":46},{\\\"key\\\":\\\"editor.action.formatDocument\\\",\\\"value\\\":47},{\\\"key\\\":\\\"workbench.action.openGlobalSettings\\\",\\\"value\\\":48},{\\\"key\\\":\\\"HookyQR.minify\\\",\\\"value\\\":72},{\\\"key\\\":\\\"editor.action.formatDocument.none\\\",\\\"value\\\":76},{\\\"key\\\":\\\"prettier.createConfigFile\\\",\\\"value\\\":77},{\\\"key\\\":\\\"workbench.action.configureLanguageBasedSettings\\\",\\\"value\\\":78},{\\\"key\\\":\\\"extension.updateVibrancy\\\",\\\"value\\\":80},{\\\"key\\\":\\\"workbench.action.toggleFullScreen\\\",\\\"value\\\":85},{\\\"key\\\":\\\"extension.background.info\\\",\\\"value\\\":87},{\\\"key\\\":\\\"wallpaper-setting.guidance\\\",\\\"value\\\":89},{\\\"key\\\":\\\"fixChecksums.apply\\\",\\\"value\\\":91},{\\\"key\\\":\\\"workbench.action.openRawDefaultSettings\\\",\\\"value\\\":93},{\\\"key\\\":\\\"workbench.action.openSettingsJson\\\",\\\"value\\\":94},{\\\"key\\\":\\\"workbench.action.selectIconTheme\\\",\\\"value\\\":100},{\\\"key\\\":\\\"workbench.action.selectTheme\\\",\\\"value\\\":116},{\\\"key\\\":\\\"notebook.clearNotebookEdtitorTypeCache\\\",\\\"value\\\":121},{\\\"key\\\":\\\"workbench.action.toggleZenMode\\\",\\\"value\\\":137},{\\\"key\\\":\\\"background.config\\\",\\\"value\\\":144},{\\\"key\\\":\\\"workbench.action.reloadWindow\\\",\\\"value\\\":167},{\\\"key\\\":\\\"background.reload\\\",\\\"value\\\":169},{\\\"key\\\":\\\"workbench.action.resetViewLocations\\\",\\\"value\\\":170},{\\\"key\\\":\\\"typescript.restartTsServer\\\",\\\"value\\\":171}]}\",\"commandPalette.mru.counter\":\"172\",\"extensionsAssistant/importantRecommendationsIgnore\":\"[\\\"ms-vscode-remote.remote-wsl\\\",\\\"ms-azuretools.vscode-docker\\\",\\\"ms-vscode-remote.remote-containers\\\"]\",\"memento/workbench.editor.keybindings\":\"{\\\"searchHistory\\\":[\\\"@command:eslint.restart\\\",\\\"open file\\\"]}\",\"tabs-list-width-horizontal\":\"46\",\"typescript.1.isCandidate\":\"false\",\"typescript.1.skipVersion\":\"1.57.1\",\"workbench.welcomePage.walkthroughMetadata\":\"[[\\\"vscjava.vscode-java-pack#javaWelcome\\\",{\\\"firstSeen\\\":1663945825962,\\\"stepIDs\\\":[\\\"java.runtime\\\",\\\"java.showProjectExplorer\\\",\\\"java.showProjectExplorer.inactive\\\",\\\"java.debugAndTest\\\",\\\"java.extensions\\\",\\\"java.more\\\",\\\"java.moreForMac\\\"],\\\"manaullyOpened\\\":false}],[\\\"eamodio.gitlens#gitlens.welcome\\\",{\\\"firstSeen\\\":1663945849965,\\\"stepIDs\\\":[\\\"gitlens.welcome.tutorial\\\",\\\"gitlens.welcome.experience\\\",\\\"gitlens.welcome.settings\\\",\\\"gitlens.welcome.currentLineBlame\\\",\\\"gitlens.welcome.gitCodeLens\\\",\\\"gitlens.welcome.revisionHistory\\\",\\\"gitlens.welcome.fileAnnotations\\\",\\\"gitlens.welcome.gitSideBarViews\\\",\\\"gitlens.welcome.hostingServiceIntegrations\\\",\\\"gitlens.welcome.gitCommandPalette\\\",\\\"gitlens.welcome.interactiveRebaseEditor\\\",\\\"gitlens.welcome.terminal\\\",\\\"gitlens.welcome.plus\\\"],\\\"manaullyOpened\\\":false}],[\\\"eamodio.gitlens#gitlens.plus\\\",{\\\"firstSeen\\\":1663945849965,\\\"stepIDs\\\":[\\\"gitlens.plus.intro.tryNow\\\",\\\"gitlens.plus.intro.signIn\\\",\\\"gitlens.plus.intro\\\",\\\"gitlens.plus.commitGraph\\\",\\\"gitlens.plus.visualFileHistory\\\",\\\"gitlens.plus.worktrees\\\",\\\"gitlens.plus.richIntegrations\\\",\\\"gitlens.plus.tryNow\\\",\\\"gitlens.plus.signIn\\\"],\\\"manaullyOpened\\\":false}],[\\\"ms-python.python#pythonWelcome\\\",{\\\"firstSeen\\\":1663945859915,\\\"stepIDs\\\":[\\\"python.createPythonFile\\\",\\\"python.installPythonWin8\\\",\\\"python.installPythonMac\\\",\\\"python.installPythonLinux\\\",\\\"python.selectInterpreter\\\",\\\"python.runAndDebug\\\",\\\"python.learnMoreWithDS\\\"],\\\"manaullyOpened\\\":false}],[\\\"ms-python.python#pythonDataScienceWelcome\\\",{\\\"firstSeen\\\":1663945859915,\\\"stepIDs\\\":[\\\"python.installJupyterExt\\\",\\\"python.createNewNotebook\\\",\\\"python.openInteractiveWindow\\\",\\\"python.dataScienceLearnMore\\\"],\\\"manaullyOpened\\\":false}],[\\\"vscode.typescript-language-features#nodejsWelcome\\\",{\\\"firstSeen\\\":1666186410924,\\\"stepIDs\\\":[\\\"walkthroughs.nodejsWelcome.downloadNode.forMacOrWindows\\\",\\\"walkthroughs.nodejsWelcome.downloadNode.forLinux\\\",\\\"walkthroughs.nodejsWelcome.makeJsFile\\\",\\\"walkthroughs.nodejsWelcome.debugJsFile\\\",\\\"walkthroughs.nodejsWelcome.learnMoreAboutJs\\\"],\\\"manaullyOpened\\\":false}]]\",\"fileBasedRecommendations/promptedRecommendations\":\"{\\\"python\\\":[\\\"ms-python.python\\\"],\\\"java\\\":[\\\"vscjava.vscode-java-pack\\\"],\\\"c\\\":[\\\"ms-vscode.cpptools\\\"]}\",\"workbench.view.extension.test.state.hidden\":\"[{\\\"id\\\":\\\"workbench.view.testing\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"python_tests\\\",\\\"isHidden\\\":false}]\",\"java.2.editedCount\":\"4\",\"java.2.editedDate\":\"Thu Oct 06 2022\",\"workbench.welcomePage.hiddenCategories\":\"[\\\"Intermediate\\\"]\",\"workbench.view.sync.state.hidden\":\"[{\\\"id\\\":\\\"workbench.views.sync.merges\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.sync.remoteActivity\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.sync.machines\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"workbench.views.sync.localActivity\\\",\\\"isHidden\\\":true},{\\\"id\\\":\\\"workbench.views.sync.troubleshoot\\\",\\\"isHidden\\\":true}]\",\"workbench.sideBar.position\":\"0\",\"workbench.panel.alignment\":\"center\",\"workbench.activityBar.hidden\":\"false\",\"workbench.statusBar.hidden\":\"false\",\"workbench.view.extension.gitlensPanel.state.hidden\":\"[{\\\"id\\\":\\\"gitlens.views.timeline\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.graph\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"gitlens.views.graphDetails\\\",\\\"isHidden\\\":false}]\",\"workbench.auxiliarybar.pinnedPanels\":\"[{\\\"id\\\":\\\"workbench.view.extension.copilot-labs\\\",\\\"name\\\":\\\"GitHub Copilot Labs\\\",\\\"pinned\\\":true,\\\"order\\\":12,\\\"visible\\\":false}]\",\"javascript.1.lastSessionDate\":\"Fri Jan 06 2023\",\"javascript.1.sessionCount\":\"33\",\"javascript.1.editedCount\":\"10\",\"javascript.1.editedDate\":\"Thu Jan 05 2023\",\"snippets.usageTimestamps\":\"[[\\\"snippets/javascript.code-snippets/Region End\\\",1663291786907],[\\\"lib/snippets/generated.json/reactArrowFunctionComponent\\\",1663402650073],[\\\"lib/snippets/generated.json/setupReactComponentTestWithRedux\\\",1668703652268],[\\\"lib/snippets/generated.json/describeBlock\\\",1672643141968],[\\\"lib/snippets/generated.json/useReducer\\\",1672645879601],[\\\"lib/snippets/generated.json/importAs\\\",1672848297696],[\\\"lib/snippets/generated.json/import\\\",1673013002534],[\\\"snippets/typescript.code-snippets/Async Function Expression\\\",1674575266455],[\\\"lib/snippets/generated.json/exportDefault\\\",1674743162468],[\\\"lib/snippets/generated.json/importReactWithPureComponent\\\",1674748512538],[\\\"snippets/typescript.code-snippets/Private Method Definition\\\",1674806526298],[\\\"lib/snippets/generated.json/reactArrowFunctionExportComponent\\\",1675263275776],[\\\"snippets/typescript.code-snippets/Async Function Statement\\\",1675324373767],[\\\"lib/snippets/generated.json/hocComponentWithRedux\\\",1675408367618],[\\\"lib/snippets/generated.json/itBlock\\\",1675430344925],[\\\"lib/snippets/generated.json/reactFunctionalComponent\\\",1675506986671],[\\\"snippets/typescript.code-snippets/Class Definition\\\",1675698720481],[\\\"lib/snippets/generated.json/reactClassPureComponent\\\",1676190987595],[\\\"snippets/typescript.code-snippets/Define a full property\\\",1677834321096],[\\\"lib/snippets/generated.json/reactFunctionalExportComponent\\\",1677835563970]]\",\"github-Daim-Nickel-Penny\":\"[{\\\"id\\\":\\\"vscode.github\\\",\\\"name\\\":\\\"GitHub\\\",\\\"allowed\\\":true},{\\\"id\\\":\\\"ms-vsliveshare.vsliveshare\\\",\\\"name\\\":\\\"Live Share\\\",\\\"allowed\\\":true},{\\\"id\\\":\\\"github.copilot-labs\\\",\\\"name\\\":\\\"GitHub Copilot Labs\\\",\\\"allowed\\\":true},{\\\"id\\\":\\\"vscode.configuration-editing\\\",\\\"name\\\":\\\"Configuration Editing\\\",\\\"allowed\\\":true}]\",\"nps/isCandidate\":\"false\",\"nps/skipVersion\":\"1.71.2\",\"views.customizations\":\"{\\\"viewContainerLocations\\\":{},\\\"viewLocations\\\":{},\\\"viewContainerBadgeEnablementStates\\\":{}}\",\"workbench.view.extension.thunder-client.state.hidden\":\"[{\\\"id\\\":\\\"thunder-client-sidebar\\\",\\\"isHidden\\\":false}]\",\"javascript.1.isCandidate\":\"false\",\"javascript.1.skipVersion\":\"1.74.2\",\"csharp.1.lastSessionDate\":\"Sat Apr 08 2023\",\"csharp.1.sessionCount\":\"6\",\"workbench.view.extension.copilot-labs.state.hidden\":\"[{\\\"id\\\":\\\"copilotSidebar.explain\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"copilotSidebar.translate\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"copilotSidebar.toolbox\\\",\\\"isHidden\\\":false},{\\\"id\\\":\\\"copilotSidebar.generateTests\\\",\\\"isHidden\\\":false}]\",\"userDataProfiles.state.hidden\":\"[{\\\"id\\\":\\\"workbench.views.profiles.export.preview\\\",\\\"isHidden\\\":false}]\"}}"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -86,3 +86,10 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Some **content** with _Markdown_ `syntax`. Check [this `api`](#).<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">:::<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;img<br /></span><span class="token prefix inserted">+</span><span class="token line">src={"https://media.giphy.com/media/kyup6TdusQGBxcs7so/giphy.gif"}<br /></span><span class="token prefix inserted">+</span><span class="token line">width="400rem"<br /></span><span class="token prefix inserted">+</span><span class="token line">height="150rem"<br /></span><span class="token prefix inserted">+</span><span class="token line">style={{ borderRadius: "12px", marginBottom: "1rem" }}<br /></span><span class="token prefix inserted">+</span><span class="token line">/&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Apr 2023, 21:40:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Apr 2023, 21:41:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
