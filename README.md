@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="#"><img src="https://i.imgur.com/OiAGdOS.gif"> </a>
-<h3 align="center">ᴊᴀᴠᴀ+ᴊꜱ+ᴘʏᴛʜᴏɴ 📖 | ᴍᴇʀɴ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 | ʀᴇᴀᴄᴛ ɪꜱ ᴀᴡᴇꜱᴏᴍᴇ ⚛️ </h3>
+<h3 align="center">ᴛʏᴘᴇꜱᴄʀɪᴘᴛ+ᴘʏᴛʜᴏɴ+ᴊᴀᴠᴀ 📖 | ​🇫​​🇺​​🇱​​🇱​ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ 💻 | ​🇻​​🇮​​🇲​ ​🇮​​🇸​ ​🇦​​🇼​​🇪​​🇸​​🇴​​🇲​​🇪​ ⌨️</h3>
 </h1><br/>
 
 <p align="center">
@@ -18,17 +18,15 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 <img width="30%" align="right" alt="Github" src="https://i.imgur.com/sms1PHL.gif" />
 
-- 👨🏽‍💻 Working, learning, and expanding my skill set in software development. <br/>
+- 👨🏽‍💻 Full stack Developer <br/>
 
-- 🐱‍💻 I do full-stack web + Android development
+- 🐱‍💻 TypeScript [React, Express.Js, NestJs], Python [FastAPI, Flask], PrismaORM, Vitest, Playwright
 
 - 🤝 Open for collaborations in Web App development.<br/>
 
-- 😊 Willing to contribute in opensource development projects.<br/>
-
 - 🎸 Frequently play with code & occasionally play with chords.
 
-- ⬇️ My NPM Downloads    <a 
+- ⬇️ My NPM Downloads via Official NPM Api    <a 
 href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats" 
 src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDaim-Nickel-Penny%2FFetch-Npm-Stats%2Fmaster%2Fstats.json"  width="240">
   </a> 
