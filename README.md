@@ -24,7 +24,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11551099"  width="170">
 
 - 🤝 Open for collaborations in Web App development.<br/>
 
-- 🎸 Frequently play with code & occasionally play with chords.
+- 🏋️‍♂️ Heavy lifting code and Dumbbells.
 
 - ⬇️ My NPM Downloads via Official NPM Api    <a 
 href="https://www.npmjs.com/~daimkhan"><img alt="NPM Stats" 
